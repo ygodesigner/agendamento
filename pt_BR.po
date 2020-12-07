@@ -1,0 +1,5594 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Doctreat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-03 20:22+0000\n"
+"PO-Revision-Date: 2020-12-03 20:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt-BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.5.3"
+
+#: single-healthforum.php:86
+msgid "% Answers"
+msgstr "% Respostas"
+
+#: comments.php:21 includes/template-tags.php:64
+msgid "% Comments"
+msgstr "% Comentários"
+
+#. 1: plugin name.
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3647
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado e ativado com sucesso."
+
+#. 1: plugin name.
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3655
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado com sucesso."
+
+#: includes/functions.php:845
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "%s atrás"
+
+#: attachment.php:26 single.php:94 directory/front-end/hooks.php:1757 
+#: directory/front-end/hooks.php:1788
+#, php-format
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s Comentário"
+msgstr[1] "%s Comentários"
+
+#: single.php:90 directory/front-end/hooks.php:1753 
+#: directory/front-end/hooks.php:1787 
+#: directory/front-end/templates/doctors/dashboard-articles.php:84
+#, php-format
+msgid "%s Like"
+msgid_plural "%s Likes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: single.php:92 directory/front-end/hooks.php:1755 
+#: directory/front-end/templates/doctors/dashboard-articles.php:85
+#, php-format
+msgid "%s View"
+msgid_plural "%s Views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: directory/front-end/templates/doctors/dashboard-education.php:92 
+#: directory/front-end/templates/doctors/dashboard-experience.php:91
+msgid "(Start Date - End Date)"
+msgstr "(Data Inicial - Data Final)"
+
+#: directory/front-end/templates/doctors/dashboard-awards.php:63
+msgid "(Year)"
+msgstr "(Ano)"
+
+#: directory/front-end/templates/doctors/single/add-bookings.php:118 
+#: directory/front-end/templates/doctors/single/bookings.php:123
+msgid "*These time slots are based on the timezone"
+msgstr "Esses intervalos de tempo são baseados no fuso horário"
+
+#. used between list items, there is a space after the comma
+#: includes/template-tags.php:50 includes/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+#: includes/class-footers.php:136
+msgid "- OR -"
+msgstr "- OU -"
+
+#: directory/front-end/functions.php:140
+msgid "0 < 15 min"
+msgstr "0 < 15 min"
+
+#: single-healthforum.php:86
+msgid "0 Answers"
+msgstr "0 Respostas"
+
+#: comments.php:21
+msgid "0 Comments"
+msgstr "0 Comentários"
+
+#: directory/front-end/functions.php:2100
+msgid "0 minutes"
+msgstr "0 minutos"
+
+#: directory/front-end/templates/doctors/single/bookings.php:52
+msgid "01"
+msgstr "01"
+
+#: directory/front-end/templates/doctors/single/bookings.php:53 
+#: directory/front-end/templates/doctors/single/bookings.php:142
+msgid "02"
+msgstr "02"
+
+#: directory/front-end/templates/doctors/single/bookings.php:54 
+#: directory/front-end/templates/doctors/single/bookings.php:143 
+#: directory/front-end/templates/doctors/single/bookings.php:182
+msgid "03"
+msgstr "03"
+
+#: directory/front-end/templates/doctors/single/bookings.php:55 
+#: directory/front-end/templates/doctors/single/bookings.php:144 
+#: directory/front-end/templates/doctors/single/bookings.php:183
+msgid "04"
+msgstr "04"
+
+#: single-healthforum.php:86
+msgid "1 Answer"
+msgstr "1 Resposta"
+
+#: comments.php:21 includes/template-tags.php:64
+msgid "1 Comment"
+msgstr "1 Comentário"
+
+#: directory/front-end/functions.php:2070 
+#: directory/front-end/functions.php:2107
+msgid "1 hours"
+msgstr "1 horas"
+
+#: directory/front-end/functions.php:2071 
+#: directory/front-end/functions.php:2108
+msgid "1 hours, 30 minutes"
+msgstr "1 horas, 30 minutos"
+
+#: directory/front-end/functions.php:2022
+msgid "1 time slots"
+msgstr "1 intervalo de tempo"
+
+#: directory/front-end/functions.php:2065 
+#: directory/front-end/functions.php:2102
+msgid "10 minutes"
+msgstr "10 minutos"
+
+#: directory/front-end/functions.php:2031
+msgid "10 time slots"
+msgstr "10 intervalo de tempo"
+
+#: directory/front-end/functions.php:1987
+msgid "10:00 am"
+msgstr "10:00 am"
+
+#: directory/front-end/functions.php:1999
+msgid "10:00 pm"
+msgstr "10:00 pm"
+
+#: directory/front-end/functions.php:2032
+msgid "11 time slots"
+msgstr "11 intervalo de tempo"
+
+#: directory/front-end/functions.php:1988
+msgid "11:00 am"
+msgstr "11:00 am"
+
+#: directory/front-end/functions.php:2000
+msgid "11:00 pm"
+msgstr "11:00 pm"
+
+#: directory/front-end/functions.php:2033
+msgid "12 time slots"
+msgstr "12 intervalo de tempo"
+
+#: directory/front-end/functions.php:1977 
+#: directory/front-end/functions.php:1989
+msgid "12:00 am"
+msgstr "12:00 am"
+
+#: directory/front-end/functions.php:2001
+msgid "12:00 pm (night)"
+msgstr "12:00 pm (noite)"
+
+#: directory/front-end/functions.php:2034
+msgid "13 time slots"
+msgstr "13 intervalo de tempo"
+
+#: directory/front-end/functions.php:2035
+msgid "14 time slots"
+msgstr "14 intervalo de tempo"
+
+#: directory/front-end/functions.php:2066 
+#: directory/front-end/functions.php:2103
+msgid "15 minutes"
+msgstr "15 minutos"
+
+#: directory/front-end/functions.php:2036
+msgid "15 time slots"
+msgstr "15 intervalo de tempo"
+
+#: directory/front-end/functions.php:141
+msgid "15 to 30 min"
+msgstr "15 a 30 min"
+
+#: directory/front-end/functions.php:2037
+msgid "16 time slots"
+msgstr "16 intervalo de tempo"
+
+#: directory/front-end/functions.php:2038
+msgid "17 time slots"
+msgstr "17 intervalos de tempo"
+
+#: directory/front-end/functions.php:2039
+msgid "18 time slots"
+msgstr "18 intervalos de tempo"
+
+#: directory/front-end/functions.php:2040
+msgid "19 time slots"
+msgstr "19 intervalos de tempo"
+
+#: directory/front-end/functions.php:1978
+msgid "1:00 am"
+msgstr "1:00 am"
+
+#: directory/front-end/functions.php:1990
+msgid "1:00 pm"
+msgstr "1:00 pm"
+
+#: directory/front-end/functions.php:2072 
+#: directory/front-end/functions.php:2109
+msgid "2 hours"
+msgstr "2 horas"
+
+#: directory/front-end/functions.php:2023
+msgid "2 time slots"
+msgstr "2 intervalos de tempo"
+
+#: directory/front-end/functions.php:2067 
+#: directory/front-end/functions.php:2104
+msgid "20 minutes"
+msgstr "20 minutos"
+
+#: directory/front-end/functions.php:2041
+msgid "20 time slots"
+msgstr "20 intervalos de tempo"
+
+#: directory/front-end/hooks.php:1542 
+#: directory/front-end/templates/doctors-location-sidebar.php:48 
+#: directory/front-end/templates/location-sidebar.php:40
+msgid "24/7 available"
+msgstr "24/7 disponível"
+
+#: directory/front-end/templates/hospitals/dashboard-basics.php:87
+msgid "24/7 working time"
+msgstr "24 horas por dia, 7 dias por semana"
+
+#: directory/front-end/functions.php:1979
+msgid "2:00 am"
+msgstr "2:00 am"
+
+#: directory/front-end/functions.php:1991
+msgid "2:00 pm"
+msgstr "2:00 pm"
+
+#: directory/front-end/functions.php:2073
+msgid "3 hours"
+msgstr "3 horas"
+
+#: directory/front-end/functions.php:2024
+msgid "3 time slots"
+msgstr "3 intervalos de tempo"
+
+#: directory/front-end/functions.php:2068 
+#: directory/front-end/functions.php:2105
+msgid "30 minutes"
+msgstr "30 minutos"
+
+#: directory/front-end/functions.php:142
+msgid "30 to 1 hr"
+msgstr "30 a 1 hora"
+
+#: directory/front-end/functions.php:1980
+msgid "3:00 am"
+msgstr "3:00 am"
+
+#: directory/front-end/functions.php:1992
+msgid "3:00 pm"
+msgstr "3:00 pm"
+
+#: directory/front-end/functions.php:2074
+msgid "4 hours"
+msgstr "4 horas"
+
+#: directory/front-end/functions.php:2025
+msgid "4 time slots"
+msgstr "4 intervalos de tempo"
+
+#: includes/class-titlebars.php:142
+msgid "404"
+msgstr "404"
+
+#: 404.php:26
+msgid "404 image"
+msgstr "404 image"
+
+#: directory/front-end/functions.php:2069 
+#: directory/front-end/functions.php:2106
+msgid "45 minutes"
+msgstr "45 minutos"
+
+#: directory/front-end/functions.php:1981
+msgid "4:00 am"
+msgstr "4:00 am"
+
+#: directory/front-end/functions.php:1993
+msgid "4:00 pm"
+msgstr "4:00 pm"
+
+#: directory/front-end/functions.php:2075
+msgid "5 hours"
+msgstr "5 horas"
+
+#: directory/front-end/functions.php:2064 
+#: directory/front-end/functions.php:2101
+msgid "5 minutes"
+msgstr "5 minutos"
+
+#: directory/front-end/functions.php:2026
+msgid "5 time slots"
+msgstr "5 intervalos de tempo"
+
+#: directory/front-end/functions.php:1982
+msgid "5:00 am"
+msgstr "5:00 am"
+
+#: directory/front-end/functions.php:1994
+msgid "5:00 pm"
+msgstr "5:00 pm"
+
+#: directory/front-end/functions.php:2076
+msgid "6 hours"
+msgstr "6 horas"
+
+#: directory/front-end/functions.php:2027
+msgid "6 time slots"
+msgstr "6 intervalos de tempo"
+
+#: directory/front-end/functions.php:1983
+msgid "6:00 am"
+msgstr ""
+
+#: directory/front-end/functions.php:1995
+msgid "6:00 pm"
+msgstr ""
+
+#: directory/front-end/functions.php:2077
+msgid "7 hours"
+msgstr ""
+
+#: directory/front-end/functions.php:2028
+msgid "7 time slots"
+msgstr ""
+
+#: directory/front-end/functions.php:1984
+msgid "7:00 am"
+msgstr ""
+
+#: directory/front-end/functions.php:1996
+msgid "7:00 pm"
+msgstr ""
+
+#: directory/front-end/functions.php:2078
+msgid "8 hours"
+msgstr ""
+
+#: directory/front-end/functions.php:2029
+msgid "8 time slots"
+msgstr ""
+
+#: directory/front-end/functions.php:1985
+msgid "8:00 am"
+msgstr ""
+
+#: directory/front-end/functions.php:1997
+msgid "8:00 pm"
+msgstr ""
+
+#: directory/front-end/functions.php:2030
+msgid "9 time slots"
+msgstr ""
+
+#: directory/front-end/functions.php:1986
+msgid "9:00 am"
+msgstr ""
+
+#: directory/front-end/functions.php:1998
+msgid "9:00 pm"
+msgstr ""
+
+#: directory/front-end/hooks.php:1717
+#, php-format
+msgid "<i class=\"ti-heart\"></i>%s Like"
+msgid_plural "<i class=\"ti-heart\"></i>%s Likes"
+msgstr[0] "<i class=\"ti-heart\"></i>%s Like"
+msgstr[1] "<i class=\"ti-heart\"></i>%s Likes"
+
+#: directory/front-end/ajax-hooks.php:73
+msgid "A link has been sent, please check your email."
+msgstr "Um link foi enviado, verifique seu e-mail."
+
+#: includes/languages.php:12
+msgid "Abkhazian"
+msgstr "Abcásia"
+
+#: directory/front-end/ajax-hooks.php:3997
+msgid "Accept"
+msgstr "Aceito"
+
+#: directory/front-end/templates/dashboard-manage-account-settings.php:22 
+#: directory/front-end/templates/doctors/dashboard-manage-account-settings.php:23
+msgid "Account Security &amp; Settings"
+msgstr "Segurança da conta &amp; Configurações"
+
+#: directory/front-end/functions.php:524 
+#: directory/front-end/dashboard-menu-templates/profile-menu-account-settings.php:23
+msgid "Account Settings"
+msgstr "Configurações da conta"
+
+#: directory/front-end/ajax-hooks.php:1884
+msgid "Account settings are Updated."
+msgstr "As configurações da conta são atualizadas."
+
+#: directory/front-end/templates/dashboard-invoices.php:53
+msgid "Action"
+msgstr "Ações"
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2859
+msgid "Activate"
+msgstr "Ativo"
+
+#. %2$s: plugin name in screen reader markup
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2745
+#, php-format
+msgid "Activate %2$s"
+msgstr "Ativo %2$s"
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2453
+msgid "Active"
+msgstr "Ativo"
+
+#: directory/front-end/templates/doctors/dashboard-submit-articles.php:29
+msgid "Add Article"
+msgstr "Add Artigo"
+
+#: directory/front-end/templates/doctors/dashboard-add-article.php:33 
+#: directory/front-end/templates/doctors/dashboard-edit-article.php:68
+msgid "Add Article Detail"
+msgstr "Adicionar detalhe do artigo"
+
+#: includes/constants.php:135
+msgid "Add Attachments"
+msgstr "Adicionar Anexos"
+
+#: directory/front-end/templates/doctors/single/bookings.php:188
+msgid "Add authentication code"
+msgstr "Adicionar código de autenticação"
+
+#: directory/front-end/templates/doctors/dashboard-appointment-listing.php:104
+msgid "Add booking"
+msgstr "Adicionar reserva"
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:282 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:309 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:360
+msgid "Add Comment"
+msgstr "Add Comentário"
+
+#: directory/front-end/templates/doctors/dashboard-profile-booking.php:65
+msgid "Add contact details"
+msgstr "Adicionar detalhes de contato"
+
+#: directory/front-end/templates/doctors/single/basic.php:80
+msgid "Add Feedback"
+msgstr "Add Feedback"
+
+#: directory/front-end/templates/doctors/dashboard-appointment-detials.php:71 
+#: directory/front-end/templates/doctors/dashboard-appointment-location-settings.php:66
+msgid "Add More"
+msgstr "Add Mais"
+
+#: directory/front-end/templates/dashboard-profile-settings-specialities.php:38
+#:  directory/front-end/templates/doctors/dashboard-awards.php:21 
+#: directory/front-end/templates/doctors/dashboard-education.php:22 
+#: directory/front-end/templates/doctors/dashboard-experience.php:22 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:219 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:265
+msgid "Add New"
+msgstr "Add Novo"
+
+#: directory/front-end/templates/doctors/dashboard-appointment-setting.php:86
+msgid "Add New Location"
+msgstr "Adicionar Novo Local"
+
+#: directory/front-end/templates/doctors/dashboard-appointment-detials.php:138 
+#: directory/front-end/templates/doctors/dashboard-appointment-location-settings.php:133
+msgid "Add New Slot"
+msgstr "Adicionar novo slot"
+
+#: directory/front-end/templates/dashboard-phone_numbers.php:30 
+#: directory/front-end/templates/dashboard-profile-settings-gallery.php:79 
+#: directory/front-end/templates/doctors/dashboard-appointment-detials.php:217 
+#: directory/front-end/templates/doctors/dashboard-appointment-location-settings.php:212
+#:  
+#: directory/front-end/templates/doctors/dashboard-appointment-setting.php:194 
+#: directory/front-end/templates/doctors/dashboard-membership.php:30 
+#: directory/front-end/templates/doctors/dashboard-profile-booking.php:36
+msgid "Add Now"
+msgstr "Adicionar Agora"
+
+#: directory/front-end/templates/doctors/single/add-bookings.php:33
+msgid "Add patient details"
+msgstr "Adicionar detalhes do paciente"
+
+#: directory/front-end/hooks.php:2916
+msgid "Add PayPal Email Address"
+msgstr "Add PayPal Email Address"
+
+#: directory/front-end/templates/dashboard-profile-settings-specialities.php:56
+#:  
+#: directory/front-end/templates/dashboard-profile-settings-specialities.php:162
+msgid "Add Services"
+msgstr "Add Serviços"
+
+#: directory/front-end/templates/doctors/dashboard-add-article.php:116 
+#: directory/front-end/templates/doctors/dashboard-edit-article.php:150
+msgid "Add Tags"
+msgstr ""
+
+#: includes/constants.php:127
+msgid "Add to cart"
+msgstr "Adicionar ao carrinho"
+
+#: directory/front-end/templates/doctors/dashboard-awards.php:20
+msgid "Add Your Awards"
+msgstr "Adicione seus prêmios"
+
+#: directory/front-end/templates/doctors/dashboard-education.php:21
+msgid "Add Your Education"
+msgstr "Adicione sua educação"
+
+#: directory/front-end/templates/doctors/dashboard-experience.php:21
+msgid "Add Your experience"
+msgstr "Adicione sua experiência"
+
+#: directory/front-end/templates/doctors/single/addfeedback.php:25
+msgid "Add Your Feedback"
+msgstr "Adicione seu Feedback"
+
+#: directory/front-end/templates/doctors/dashboard-appointment-location-settings.php:40
+msgid "Add/Update location"
+msgstr "Adicionar / Atualizar localização"
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:143
+msgid "Address"
+msgstr "Endereço"
+
+#: directory/front-end/functions.php:2725
+msgid "Address:"
+msgstr "Endereço:"
+
+#: includes/class-headers.php:156
+msgid "Advanced"
+msgstr "Avançado"
+
+#: includes/languages.php:13
+msgid "Afar"
+msgstr "Longe"
+
+#: includes/languages.php:15
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:140
+msgid "Age"
+msgstr "Idade"
+
+#: directory/front-end/functions.php:2712
+msgid "Age:"
+msgstr "Idade"
+
+#: includes/languages.php:16
+msgid "Akan"
+msgstr "Vai"
+
+#: includes/languages.php:17
+msgid "Albanian"
+msgstr ""
+
+#: includes/scripts.php:215
+msgid "Alert"
+msgstr "Alerta"
+
+#: directory/front-end/hooks.php:2031
+msgid "All"
+msgstr "Todos"
+
+#: directory/front-end/ajax-hooks.php:2527
+msgid "All fields are required."
+msgstr "Todos os campos são necessários."
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3648
+msgid "All installations and activations have been completed."
+msgstr "Todas as instalações e ativações foram concluídas."
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3656
+msgid "All installations have been completed."
+msgstr "Todas as instalações foram concluídas."
+
+#: directory/front-end/templates/hospitals/single/onboard.php:19
+msgid "All Onboard Doctors"
+msgstr "Todos os médicos a bordo"
+
+#. 1: dashboard link.
+#: theme-config/tgmp/class-tgm-plugin-activation.php:406
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: theme-config/tgmp/init.php:136
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/functions.php:1103
+msgid "All post types"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-payouts-settings.php:29
+msgid "All the earning will be sent to below selected payout method"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-email-notifications.php:21
+msgid "All the emails will be sent to the below email address"
+msgstr ""
+
+#. Author of the theme
+msgid "Amentotech"
+msgstr ""
+
+#: includes/languages.php:18
+msgid "Amharic"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-invoices.php:52 
+#: directory/front-end/templates/doctors/dashboard-payments.php:40
+msgid "Amount"
+msgstr ""
+
+#. 1: plugin name, 2: error message.
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3639
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: searchform.php:20
+msgid "and start again"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/feedback.php:80 
+#: directory/front-end/templates/doctors/single/feedback.php:83
+msgid "Anonymous"
+msgstr ""
+
+#: includes/functions.php:922
+msgid "Answer"
+msgstr ""
+
+#: directory/healthforum.php:260
+msgid "Answered"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/consultation.php:32 
+#: directory/front-end/templates/hospitals/single/online-consultation.php:48
+msgid "Answers"
+msgstr ""
+
+#: healthforum-comments.php:18
+msgid "Answers are closed."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4738
+msgid "App link is send to your email address."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2965 
+#: directory/front-end/ajax-hooks.php:3545 
+#: directory/front-end/woo-hooks.php:352 directory/front-end/woo-hooks.php:565
+msgid "APP#"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3906 
+#: directory/front-end/woo-hooks.php:926
+msgid "Appointment date"
+msgstr ""
+
+#: directory/front-end/functions.php:2063
+msgid "Appointment Durations"
+msgstr ""
+
+#: directory/front-end/functions.php:2099
+msgid "Appointment Intervals"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:782
+msgid "Appointment is submmitted successfully."
+msgstr ""
+
+#: directory/front-end/dashboard-menu-templates/doctors/profile-menu-appointments-listing.php:22
+#:  
+#: directory/front-end/dashboard-menu-templates/regular_users/profile-menu-appointments-listings.php:21
+msgid "Appointment List"
+msgstr ""
+
+#: directory/front-end/functions.php:528 directory/front-end/functions.php:532
+msgid "Appointment Listing"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3898
+msgid "Appointment location"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-setting.php:47
+msgid "Appointment Locations"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-setting.php:79
+msgid "Appointment Setting"
+msgstr ""
+
+#: directory/front-end/functions.php:536 
+#: directory/front-end/dashboard-menu-templates/doctors/profile-menu-appointments-settings.php:25
+#:  
+#: directory/front-end/templates/doctors/dashboard-appointment-location-settings.php:39
+msgid "Appointment Settings"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:922
+msgid "Appointment time"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:738
+msgid "Appointment title is required."
+msgstr ""
+
+#: directory/front-end/templates/dashboard-statistics-appointments.php:41 
+#: directory/front-end/templates/doctors/dashboard-appointment-listing.php:91 
+#: directory/front-end/templates/regular_users/dashboard-appointment-listing.php:78
+msgid "Appointments"
+msgstr ""
+
+#: directory/front-end/templates/hospitals/dashboard-team.php:94
+msgid "Approve User"
+msgstr ""
+
+#: directory/front-end/functions.php:1714
+msgid "April"
+msgstr ""
+
+#: includes/languages.php:19
+msgid "Arabic"
+msgstr ""
+
+#: includes/languages.php:20
+msgid "Aragonese"
+msgstr ""
+
+#: includes/class-titlebars.php:151 includes/class-titlebars.php:158
+msgid "Archive"
+msgstr ""
+
+#: directory/front-end/hooks.php:2609 directory/front-end/hooks.php:2693 
+#: directory/front-end/hooks.php:2696 directory/front-end/hooks.php:2699 
+#: directory/front-end/hooks.php:2714 directory/front-end/hooks.php:2717 
+#: directory/front-end/hooks.php:2720
+msgid "Archives"
+msgstr ""
+
+#: includes/constants.php:128
+msgid "Are you sure you want to buy this package?"
+msgstr ""
+
+#: includes/constants.php:132
+msgid "Are you sure you want to change team member status?"
+msgstr ""
+
+#: includes/constants.php:115
+msgid "Are you sure you want to change this booking status?"
+msgstr ""
+
+#: includes/constants.php:139
+msgid "Are you sure you want to delete your account?"
+msgstr ""
+
+#: includes/constants.php:141
+msgid "Are you sure you want to delete your article?"
+msgstr ""
+
+#: includes/constants.php:147
+msgid "Are you sure you want to remove Payouts Settings"
+msgstr ""
+
+#: includes/constants.php:134
+msgid "Are you sure you want to remove this location."
+msgstr ""
+
+#: includes/constants.php:130
+msgid "Are you sure you want to remove this slot(s)?"
+msgstr ""
+
+#: includes/constants.php:144
+msgid "Are you sure you want to remove this?"
+msgstr ""
+
+#: includes/scripts.php:213
+msgid "Are you sure, you want to import users?"
+msgstr ""
+
+#: includes/scripts.php:214
+msgid "Are you sure, you want to remove?"
+msgstr ""
+
+#: includes/languages.php:21
+msgid "Armenian"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-add-article.php:18
+msgid "Article contents..."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:898
+msgid "Article is submitted successfully."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-manage-article.php:19
+msgid "Article Listing"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-add-article.php:38 
+#: directory/front-end/templates/doctors/dashboard-edit-article.php:73
+msgid "Article Title"
+msgstr ""
+
+#: single-doctors.php:59 
+#: directory/front-end/templates/doctors/single/articles.php:21
+msgid "Articles"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-posted-articles.php:30
+msgid "Articles published"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2614
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: directory/doctor-search.php:268
+msgid "Ascending"
+msgstr ""
+
+#: directory/post-question.php:38
+msgid "Ask Free Query"
+msgstr ""
+
+#: includes/languages.php:22
+msgid "Assamese"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-detials.php:198 
+#: directory/front-end/templates/doctors/dashboard-appointment-location-settings.php:193
+#:  directory/front-end/templates/doctors/dashboard-appointment-setting.php:158
+msgid "Assign Appointment Spaces"
+msgstr ""
+
+#: directory/front-end/functions.php:1718
+msgid "August"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3465
+msgid "Authentication code is incorrect."
+msgstr ""
+
+#: template-parts/content-author.php:42
+msgid "Author Since"
+msgstr ""
+
+#: directory/front-end/hooks.php:2727
+msgid "Author: "
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-setting.php:51
+msgid "Avaiable Locations"
+msgstr ""
+
+#: directory/front-end/templates/hospitals/dashboard-basics.php:95
+msgid "Availability Text"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-statistics-available-balance.php:23
+msgid "Available Balance"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-statistics-available-balance.php:31 
+#: directory/front-end/templates/doctors/dashboard-available-balance.php:23 
+#: directory/front-end/templates/doctors/dashboard-available-balance.php:31
+msgid "Available balance"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-detials.php:42
+msgid "Available Location"
+msgstr ""
+
+#: single-doctors.php:46
+msgid "Available Locations"
+msgstr ""
+
+#: directory/back-end/author-partials/template-author-payments.php:52
+msgid "Available Packages"
+msgstr ""
+
+#: directory/front-end/hooks.php:1486 directory/front-end/hooks.php:1630 
+#: directory/front-end/templates/doctors-location-sidebar.php:128
+msgid "Available Today"
+msgstr "Disponível hoje"
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2642
+msgid "Available version:"
+msgstr ""
+
+#: includes/languages.php:23
+msgid "Avaric"
+msgstr ""
+
+#: directory/front-end/class-dashboard-menu.php:227 
+#: directory/front-end/class-dashboard-menu.php:243
+msgid "avatar"
+msgstr ""
+
+#: includes/languages.php:24
+msgid "Avestan"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-awards.php:63
+msgid "Award title"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:1441
+msgid "Award title is required"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-profile-settings-tabs.php:47
+msgid "Awards &amp; Downloads"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/awards.php:19
+msgid "Awards and Recognitions"
+msgstr ""
+
+#: includes/languages.php:25
+msgid "Aymara"
+msgstr ""
+
+#: includes/languages.php:26
+msgid "Azerbaijani"
+msgstr ""
+
+#: includes/languages.php:27
+msgid "Bambara"
+msgstr ""
+
+#: directory/front-end/hooks.php:2941 directory/front-end/hooks.php:2942
+msgid "Bank Account Name"
+msgstr ""
+
+#: directory/front-end/hooks.php:2943
+msgid "Bank Account Name is required"
+msgstr ""
+
+#: directory/front-end/hooks.php:2950 directory/front-end/hooks.php:2951
+msgid "Bank Account Number"
+msgstr ""
+
+#: directory/front-end/hooks.php:2952
+msgid "Bank Account Number is required"
+msgstr ""
+
+#: directory/front-end/hooks.php:2982 directory/front-end/hooks.php:2983
+msgid "Bank BIC/SWIFT"
+msgstr ""
+
+#: directory/front-end/hooks.php:2984
+msgid "Bank BIC/SWIFT is required"
+msgstr ""
+
+#: directory/front-end/hooks.php:2974 directory/front-end/hooks.php:2975
+msgid "Bank IBAN"
+msgstr ""
+
+#: directory/front-end/hooks.php:2976
+msgid "Bank IBAN is required"
+msgstr ""
+
+#: directory/front-end/hooks.php:2958 directory/front-end/hooks.php:2959
+msgid "Bank Name"
+msgstr ""
+
+#: directory/front-end/hooks.php:2960
+msgid "Bank Name is required"
+msgstr ""
+
+#: directory/front-end/hooks.php:2966 directory/front-end/hooks.php:2967
+msgid "Bank Routing Number"
+msgstr ""
+
+#: directory/front-end/hooks.php:2968
+msgid "Bank Routing Number is required"
+msgstr ""
+
+#: includes/languages.php:28
+msgid "Bashkir"
+msgstr ""
+
+#: includes/languages.php:29
+msgid "Basque"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:392 
+#: theme-config/tgmp/init.php:133
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:382 
+#: theme-config/tgmp/init.php:132
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/languages.php:30
+msgid "Belarusian"
+msgstr ""
+
+#: includes/languages.php:31
+msgid "Bengali"
+msgstr ""
+
+#: directory/front-end/hooks.php:552
+msgid "Biannually( 6 Months )"
+msgstr ""
+
+#: includes/languages.php:32
+msgid "Bihari languages"
+msgstr ""
+
+#: directory/front-end/hooks.php:544
+msgid "Bimonthly ( 60 days )"
+msgstr ""
+
+#: includes/languages.php:33
+msgid "Bislama"
+msgstr ""
+
+#: directory/front-end/hooks.php:536
+msgid "Biweekly ( 14 days )"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/add-bookings.php:26 
+#: directory/front-end/templates/doctors/single/bookings.php:47 
+#: directory/front-end/templates/doctors/single/bookings.php:217
+msgid "Book Appointment"
+msgstr ""
+
+#: directory/front-end/hooks.php:1637 
+#: directory/front-end/templates/doctors/single/basic.php:85
+msgid "Book Now"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:1572
+msgid "Booking"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4433
+msgid "Booking contact details."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-profile-booking.php:61
+msgid "Booking Details"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:931
+msgid "Booking for"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-phone_numbers.php:19
+msgid "Booking Phone numbers"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:1573
+msgid "Booking product will be used to make the payment for the Booking"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-profile-settings-tabs.php:66
+msgid "Booking settings"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4176
+msgid "Booking status has been updated."
+msgstr ""
+
+#: directory/front-end/hooks.php:682
+msgid "Bookings"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:1044
+msgid "Boooking information"
+msgstr ""
+
+#: includes/languages.php:34
+msgid "Bosnian"
+msgstr ""
+
+#: includes/languages.php:35
+msgid "Breton"
+msgstr ""
+
+#: directory/front-end/hooks.php:1849
+msgid "Brother"
+msgstr ""
+
+#: includes/languages.php:36
+msgid "Bulgarian"
+msgstr ""
+
+#: includes/languages.php:37
+msgid "Burmese"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-packages.php:86
+msgid "Buy Now"
+msgstr ""
+
+#: directory/front-end/hooks.php:1498 
+#: directory/front-end/templates/doctors/single/basic.php:87
+msgid "Call Now"
+msgstr ""
+
+#: includes/class-headers.php:359
+msgid "Cancel"
+msgstr ""
+
+#: comments.php:56 healthforum-comments.php:45
+msgid "Cancel reply"
+msgstr ""
+
+#: directory/front-end/functions.php:14 directory/front-end/hooks.php:2543
+msgid "Cancelled"
+msgstr ""
+
+#: includes/constants.php:108
+msgid "Cancelled reason is required"
+msgstr ""
+
+#: includes/languages.php:39
+msgid "Catalan, Catalunya"
+msgstr ""
+
+#: includes/languages.php:38
+msgid "Catalan, Valencian"
+msgstr ""
+
+#: template-parts/archive-templates/content-list.php:48 
+#: template-parts/archive-templates/search-list.php:45
+msgid "Categories"
+msgstr ""
+
+#: includes/languages.php:40
+msgid "Central Khmer"
+msgstr ""
+
+#: includes/languages.php:41
+msgid "Chamorro"
+msgstr ""
+
+#: includes/constants.php:114
+msgid "Change booking status"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-payouts-settings.php:87
+msgid "Change Payout Details"
+msgstr ""
+
+#: includes/constants.php:131
+msgid "Change status"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-reset-password.php:19
+msgid "Change Your Password"
+msgstr ""
+
+#: includes/languages.php:42
+msgid "Chechen"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:516 
+#: directory/front-end/ajax-hooks.php:650
+msgid "Check Appointment Spaces."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:651
+msgid "Check atleast one day."
+msgstr ""
+
+#: directory/front-end/templates/dashboard-statistics-package-expiry.php:56
+msgid "Check Package Detail"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-invoices.php:29
+msgid "Check Your Invoices"
+msgstr ""
+
+#: includes/languages.php:43
+msgid "Chichewa, Chewa, Nyanja"
+msgstr ""
+
+#: directory/front-end/functions.php:2753
+msgid "Child illness:"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:176
+msgid "Childhood illness"
+msgstr ""
+
+#: includes/languages.php:44
+msgid "Chinese"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-add-article.php:92 
+#: directory/front-end/templates/doctors/dashboard-add-article.php:123 
+#: directory/front-end/templates/doctors/dashboard-edit-article.php:126
+msgid "Choose Cetagory"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-edit-article.php:157
+msgid "Choose Tags"
+msgstr ""
+
+#: includes/languages.php:45
+msgid "Church Slavonic, Old Bulgarian, Old Church Slavonic"
+msgstr ""
+
+#: includes/languages.php:46
+msgid "Chuvash"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-manage-specilities-services.php:31 
+#: directory/front-end/templates/dashboard-manage-team.php:31 
+#: directory/front-end/templates/dashboard-statistics-appointments.php:43 
+#: directory/front-end/templates/dashboard-statistics-messages.php:38 
+#: directory/front-end/templates/dashboard-statistics-saved-items.php:31 
+#: directory/front-end/templates/doctors/dashboard-invoices.php:31 
+#: directory/front-end/templates/doctors/dashboard-submit-articles.php:31
+msgid "Click To View"
+msgstr ""
+
+#: directory/post-question.php:8 directory/front-end/ajax-hooks.php:4033 
+#: directory/front-end/templates/dashboard-add-invitation.php:21 
+#: directory/front-end/templates/dashboard-package-detail.php:26 
+#: directory/front-end/templates/doctors/single/add-bookings.php:27 
+#: directory/front-end/templates/doctors/single/addfeedback.php:26 
+#: directory/front-end/templates/doctors/single/bookings.php:48 
+#: directory/front-end/templates/doctors/single/bookings.php:218
+msgid "Close"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-experience.php:101
+msgid "Comapny name"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3956
+msgid "Comments"
+msgstr "Comentários"
+
+#: comments.php:28
+msgid "Comments are closed."
+msgstr "Comentários estão fechados."
+
+#: directory/front-end/templates/doctors/single/add-bookings.php:111 
+#: directory/front-end/templates/doctors/single/bookings.php:116
+msgid "Comments:"
+msgstr "Comentários:"
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:219
+msgid "Common Issue"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-experience.php:63
+msgid "Company name"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-experience.php:91
+msgid "Company title"
+msgstr ""
+
+#: directory/front-end/functions.php:13
+msgid "Completed"
+msgstr ""
+
+#: includes/constants.php:136
+msgid "Confirm?"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3800 
+#: directory/front-end/templates/doctors/dashboard-appointment-listing.php:132 
+#: directory/front-end/templates/doctors/dashboard-current-appointment-listing.php:75
+#:  
+#: directory/front-end/templates/regular_users/dashboard-appointment-listing.php:102
+msgid "Confirmed"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:142
+msgid "Congratulation! your password has been changed."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3964
+msgid "Consultant fee"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2727 
+#: directory/front-end/woo-hooks.php:927 
+#: directory/front-end/templates/doctors/dashboard-appointment-detials.php:111 
+#: directory/front-end/templates/doctors/dashboard-appointment-detials.php:114 
+#: directory/front-end/templates/doctors/dashboard-appointment-location-settings.php:106
+#:  
+#: directory/front-end/templates/doctors/dashboard-appointment-location-settings.php:109
+#:  
+#: directory/front-end/templates/doctors/dashboard-appointment-setting.php:189 
+#: directory/front-end/templates/doctors/dashboard-appointment-setting.php:191 
+#: directory/front-end/templates/hospitals/dashboard-location-details.php:86 
+#: directory/front-end/templates/hospitals/dashboard-location-details.php:89
+msgid "Consultation fee"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:1524 
+#: directory/front-end/ajax-hooks.php:1580
+msgid "Consultation fee is required"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:652
+msgid "Consultation fee is required."
+msgstr ""
+
+#: theme-config/tgmp/init.php:88
+msgid "Contact Form 7"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-profile-booking.php:25
+msgid "Contact phone numbers"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/add-bookings.php:132 
+#: directory/front-end/templates/doctors/single/bookings.php:210 
+#: directory/front-end/templates/doctors/single/bookings.php:211
+msgid "Continue"
+msgstr ""
+
+#: template-parts/content.php:25
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: directory/front-end/class-dashboard-menu.php:98
+msgid "Copyright"
+msgstr ""
+
+#: includes/languages.php:47
+msgid "Cornish"
+msgstr ""
+
+#: includes/languages.php:48
+msgid "Corsican"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/add-bookings.php:54
+msgid "Create new user"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-invoices.php:51
+msgid "Created date"
+msgstr ""
+
+#: includes/languages.php:49
+msgid "Cree"
+msgstr ""
+
+#: includes/languages.php:50
+msgid "Croatian"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-education.php:41 
+#: directory/front-end/templates/doctors/dashboard-experience.php:41
+msgid "Current"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2185
+msgid "Current and new password fields are required."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-detials.php:214 
+#: directory/front-end/templates/doctors/dashboard-appointment-location-settings.php:209
+#:  directory/front-end/templates/doctors/dashboard-appointment-setting.php:174
+msgid "Custom Spaces"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:542 
+#: directory/front-end/ajax-hooks.php:692
+msgid "Custom spaces value is requird."
+msgstr ""
+
+#: includes/languages.php:51
+msgid "Czech"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-statistics-package-expiry.php:28
+msgid "d"
+msgstr ""
+
+#: includes/languages.php:52
+msgid "Danish"
+msgstr ""
+
+#. Name of the template
+#: directory/front-end/functions.php:504 directory/front-end/hooks.php:1040 
+#: directory/front-end/dashboard-menu-templates/profile-menu-insights.php:21
+msgid "Dashboard"
+msgstr ""
+
+#: directory/front-end/hooks.php:1878 
+#: directory/front-end/templates/doctors/dashboard-payments.php:38
+msgid "Date"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:421
+msgid "Date is required."
+msgstr ""
+
+#: directory/front-end/hooks.php:1853
+msgid "Daughter"
+msgstr ""
+
+#: template-parts/template-comingsoon.php:110
+msgid "Day"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:517
+msgid "Day is required."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:422 
+#: directory/front-end/ajax-hooks.php:470
+msgid "Day key is required."
+msgstr ""
+
+#: includes/constants.php:119 template-parts/template-comingsoon.php:102
+msgid "Days"
+msgstr ""
+
+#: directory/front-end/hooks.php:598
+msgid "days"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-detials.php:50 
+#: directory/front-end/templates/doctors/dashboard-appointment-location-settings.php:45
+#:  
+#: directory/front-end/templates/doctors/dashboard-appointment-setting.php:178 
+#: directory/front-end/templates/hospitals/dashboard-basics.php:102 
+#: directory/front-end/templates/hospitals/dashboard-location-details.php:34
+msgid "Days I Offer My Services"
+msgstr ""
+
+#: directory/front-end/functions.php:1722
+msgid "December"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3996
+msgid "Decline"
+msgstr ""
+
+#: directory/front-end/functions.php:435
+msgid "Default"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-profile-settings-tabs.php:72
+msgid "Default location"
+msgstr ""
+
+#: includes/sidebars.php:31
+msgid "Default sidebar for forum single page."
+msgstr ""
+
+#: includes/sidebars.php:22 includes/sidebars.php:40
+msgid "Default sidebar for home and archive pages."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-education.php:72 
+#: directory/front-end/templates/doctors/dashboard-education.php:111
+msgid "Degree title"
+msgstr ""
+
+#: includes/constants.php:138 
+#: directory/front-end/templates/dashboard-account-manage.php:48 
+#: directory/front-end/templates/dashboard-delete-account.php:19
+msgid "Delete Account"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-detials.php:72 
+#: directory/front-end/templates/doctors/dashboard-appointment-location-settings.php:67
+msgid "Delete All"
+msgstr ""
+
+#: includes/constants.php:140
+msgid "Delete Article"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-detials.php:44
+msgid "Delete Location"
+msgstr ""
+
+#: directory/doctor-search.php:269
+msgid "Descending"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:920 
+#: directory/front-end/templates/dashboard-profile-settings-specialities.php:114
+#:  
+#: directory/front-end/templates/dashboard-profile-settings-specialities.php:209
+#:  directory/front-end/templates/doctors/dashboard-basics.php:103 
+#: directory/front-end/templates/hospitals/dashboard-basics.php:68 
+#: directory/front-end/templates/regular_users/dashboard-basics.php:77
+msgid "Description"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-delete-account.php:40
+msgid "Description (Optional)"
+msgstr ""
+
+#: directory/front-end/functions.php:2820
+msgid "Details"
+msgstr ""
+
+#: directory/front-end/functions.php:2807
+msgid "Diagnosis:"
+msgstr ""
+
+#: directory/front-end/hooks.php:2923
+msgid "Direct Bank Transfer (BACS)"
+msgstr ""
+
+#: directory/front-end/functions.php:1888 
+#: directory/front-end/functions.php:1891
+msgid "Disable my account temporarily"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:185
+msgid "Diseases"
+msgstr ""
+
+#: directory/front-end/functions.php:2776
+msgid "Diseases:"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:407
+msgid "Dismiss this notice"
+msgstr ""
+
+#: directory/front-end/hooks.php:148 directory/front-end/hooks.php:151 
+#: directory/front-end/hooks.php:154
+msgid "Dismiss this notice."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-basics.php:86 
+#: directory/front-end/templates/hospitals/dashboard-basics.php:54 
+#: directory/front-end/templates/regular_users/dashboard-basics.php:68
+msgid "Display name"
+msgstr ""
+
+#: directory/back-end/dashboard.php:60
+msgid "Display Photo"
+msgstr ""
+
+#: includes/languages.php:53
+msgid "Divehi, Dhivehi, Maldivian"
+msgstr ""
+
+#: includes/functions.php:126 directory/front-end/functions.php:1743 
+#: directory/front-end/hooks.php:2498
+msgid "Doctor"
+msgstr ""
+
+#: single-doctors.php:50
+msgid "Doctor Details"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/bookings.php:220
+msgid "Doctor has not updated his booking settings."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2633
+msgid "Doctor ID is missing."
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:924
+msgid "Doctor name"
+msgstr ""
+
+#: includes/sidebars.php:48
+msgid "Doctor single page sidebar"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2639
+msgid "Doctor status is required."
+msgstr ""
+
+#: directory/front-end/hooks.php:2001 
+#: directory/front-end/templates/dashboard-saved-items.php:27
+msgid "Doctors"
+msgstr ""
+
+#: directory/front-end/hooks.php:1573 
+#: directory/front-end/templates/location-sidebar.php:84
+msgid "Doctors Onboard:"
+msgstr ""
+
+#. Name of the theme
+msgid "Doctreat"
+msgstr ""
+
+#: theme-config/tgmp/init.php:65
+msgid "Doctreat Core"
+msgstr ""
+
+#: theme-config/tgmp/init.php:71
+msgid "Doctreat CRON"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Doctreat is healthcare online solution for patients. This theme is created "
+"with an idea to address the medical and health related issues posted by "
+"patients and doctors. It has exciting features and excellent code quality.It "
+"has been designed and developed after thorough research to cater the "
+"requirements of people who interested in building user based directories."
+" The design is contemporary but at the same time it focuses on the usability,"
+" visual hierarchy and aesthetics to ensure easy navigation for the end users."
+" "
+msgstr ""
+
+#: demo-content/demo/manifest.php:7
+msgid "Doctreat Main"
+msgstr ""
+
+#: theme-config/tgmp/init.php:77
+msgid "Doctreat Mobile APP REST API( Optional )"
+msgstr ""
+
+#: directory/front-end/class-dashboard-menu.php:98
+msgid "Doctreat. All rights reserved."
+msgstr ""
+
+#: includes/constants.php:107
+msgid "Document Title"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-downloads.php:22 
+#: directory/front-end/templates/doctors/single/downloads.php:20
+msgid "Downloads"
+msgstr ""
+
+#: directory/front-end/hooks.php:1823
+msgid "Dr."
+msgstr ""
+
+#: directory/front-end/templates/dashboard-profile-settings-gallery.php:33 
+#: directory/front-end/templates/doctors/dashboard-add-article.php:58 
+#: directory/front-end/templates/doctors/dashboard-avatar.php:39 
+#: directory/front-end/templates/doctors/dashboard-downloads.php:32 
+#: directory/front-end/templates/doctors/dashboard-edit-article.php:92 
+#: directory/front-end/templates/doctors/dashboard-location-basic.php:61 
+#: directory/front-end/templates/doctors/dashboard-registrations.php:44 
+#: directory/front-end/templates/hospitals/dashboard-avatar.php:39 
+#: directory/front-end/templates/hospitals/dashboard-registrations.php:44 
+#: directory/front-end/templates/regular_users/dashboard-avatar.php:39
+msgid "Drop files here to upload"
+msgstr ""
+
+#: directory/front-end/functions.php:2818 directory/front-end/hooks.php:709
+msgid "Duration"
+msgstr ""
+
+#: includes/languages.php:54
+msgid "Dutch, Flemish"
+msgstr ""
+
+#: includes/languages.php:55
+msgid "Dzongkha"
+msgstr ""
+
+#: attachment.php:37
+msgid "Edit"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-edit-article.php:40
+msgid "Edit article "
+msgstr ""
+
+#: directory/front-end/functions.php:516
+msgid "Edit my profile"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/education.php:21
+msgid "Education"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-education.php:92
+msgid "Education title"
+msgstr ""
+
+#: theme-config/tgmp/init.php:55
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:934 
+#: directory/front-end/templates/doctors/single/add-bookings.php:39
+msgid "Email"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:935 
+#: directory/front-end/templates/doctors/single/bookings.php:75
+msgid "Email address"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2033
+msgid "Email address is invalid"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3144
+msgid "Email address is required"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3391
+msgid "Email is invalid."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2812 
+#: directory/front-end/ajax-hooks.php:2818
+msgid "Email is required field"
+msgstr ""
+
+#: includes/constants.php:113 directory/front-end/ajax-hooks.php:3379 
+#: directory/front-end/ajax-hooks.php:4725
+msgid "Email is required."
+msgstr ""
+
+#: directory/front-end/templates/dashboard-account-manage.php:43
+msgid "Email Notification"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/bookings.php:171
+msgid "Email*"
+msgstr ""
+
+#: directory/front-end/templates/hospitals/dashboard-team.php:112
+msgid "Empty team members."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-detials.php:159 
+#: directory/front-end/templates/doctors/dashboard-appointment-location-settings.php:154
+#:  directory/front-end/templates/doctors/dashboard-appointment-setting.php:112
+msgid "End time"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:515 
+#: directory/front-end/ajax-hooks.php:649
+msgid "End time is required."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-education.php:69 
+#: directory/front-end/templates/doctors/dashboard-education.php:108 
+#: directory/front-end/templates/doctors/dashboard-experience.php:69 
+#: directory/front-end/templates/doctors/dashboard-experience.php:107
+msgid "Ending Date"
+msgstr ""
+
+#: includes/languages.php:56
+msgid "English"
+msgstr ""
+
+#: includes/constants.php:101
+msgid "Enter a valid percentage value"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/bookings.php:185
+msgid "Enter Authentication Code"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-location.php:50
+msgid "Enter Latitude"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-location.php:54
+msgid "Enter Longitude"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-delete-account.php:24
+msgid "Enter Password"
+msgstr ""
+
+#: directory/front-end/hooks.php:2733
+msgid "Error 404"
+msgstr ""
+
+#: includes/languages.php:57
+msgid "Esperanto"
+msgstr ""
+
+#: includes/languages.php:58
+msgid "Estonian"
+msgstr ""
+
+#: includes/languages.php:59
+msgid "Ewe"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/experience.php:21
+msgid "Experience"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-profile-settings-tabs.php:42
+msgid "Experience &amp; Education"
+msgstr ""
+
+#: includes/constants.php:122
+msgid "EXPIRED"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2427
+msgid "External Source"
+msgstr ""
+
+#: theme-config/theme-setup/class-theme-setup.php:86
+msgid "Extra Large"
+msgstr ""
+
+#: includes/languages.php:60
+msgid "Faroese"
+msgstr ""
+
+#: taxonomy-languages.php:69 taxonomy-locations.php:68 
+#: taxonomy-services.php:69 taxonomy-specialities.php:69 
+#: template-parts/archive-templates/content-list.php:57 
+#: template-parts/archive-templates/search-list.php:54
+msgid "Featured"
+msgstr ""
+
+#: directory/front-end/hooks.php:700
+msgid "Featured days?"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-add-article.php:48 
+#: directory/front-end/templates/doctors/dashboard-edit-article.php:82
+msgid "Featured Photo"
+msgstr ""
+
+#: directory/front-end/hooks.php:691
+msgid "Featured Profile?"
+msgstr ""
+
+#: directory/front-end/functions.php:1712
+msgid "February"
+msgstr ""
+
+#: single-doctors.php:56 directory/front-end/hooks.php:1354 
+#: directory/front-end/templates/doctors/single/basic.php:69
+msgid "Feedback"
+msgstr ""
+
+#: directory/front-end/hooks.php:2030 
+#: directory/front-end/templates/doctors/dashboard-basics.php:68 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:158
+msgid "Female"
+msgstr ""
+
+#: includes/constants.php:145
+msgid "field is required"
+msgstr ""
+
+#: includes/languages.php:61
+msgid "Fijian"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-registrations.php:93 
+#: directory/front-end/templates/doctors/dashboard-registrations.php:106 
+#: directory/front-end/templates/hospitals/dashboard-registrations.php:92 
+#: directory/front-end/templates/hospitals/dashboard-registrations.php:105
+msgid "File"
+msgstr ""
+
+#: includes/constants.php:106
+msgid "File size"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-profile-settings-gallery.php:53 
+#: directory/front-end/templates/dashboard-profile-settings-gallery.php:115 
+#: directory/front-end/templates/dashboard-profile-settings-gallery.php:126 
+#: directory/front-end/templates/doctors/dashboard-add-article.php:71 
+#: directory/front-end/templates/doctors/dashboard-add-article.php:166 
+#: directory/front-end/templates/doctors/dashboard-add-article.php:178 
+#: directory/front-end/templates/doctors/dashboard-avatar.php:52 
+#: directory/front-end/templates/doctors/dashboard-avatar.php:77 
+#: directory/front-end/templates/doctors/dashboard-avatar.php:89 
+#: directory/front-end/templates/doctors/dashboard-downloads.php:54 
+#: directory/front-end/templates/doctors/dashboard-downloads.php:84 
+#: directory/front-end/templates/doctors/dashboard-edit-article.php:105 
+#: directory/front-end/templates/doctors/dashboard-edit-article.php:205 
+#: directory/front-end/templates/doctors/dashboard-edit-article.php:217 
+#: directory/front-end/templates/doctors/dashboard-location-basic.php:74 
+#: directory/front-end/templates/doctors/dashboard-location-basic.php:98 
+#: directory/front-end/templates/doctors/dashboard-location-basic.php:110 
+#: directory/front-end/templates/doctors/dashboard-registrations.php:67 
+#: directory/front-end/templates/doctors/dashboard-registrations.php:97 
+#: directory/front-end/templates/doctors/dashboard-registrations.php:110 
+#: directory/front-end/templates/hospitals/dashboard-avatar.php:52 
+#: directory/front-end/templates/hospitals/dashboard-avatar.php:77 
+#: directory/front-end/templates/hospitals/dashboard-avatar.php:89 
+#: directory/front-end/templates/hospitals/dashboard-registrations.php:67 
+#: directory/front-end/templates/hospitals/dashboard-registrations.php:96 
+#: directory/front-end/templates/hospitals/dashboard-registrations.php:109 
+#: directory/front-end/templates/regular_users/dashboard-avatar.php:52 
+#: directory/front-end/templates/regular_users/dashboard-avatar.php:77 
+#: directory/front-end/templates/regular_users/dashboard-avatar.php:89
+msgid "File size:"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:201 
+#: directory/front-end/ajax-hooks.php:258
+msgid "File uploaded!"
+msgstr ""
+
+#: includes/functions.php:1115
+msgid "Filter by post type"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/bookings.php:205
+msgid "Finish"
+msgstr ""
+
+#: includes/languages.php:62
+msgid "Finnish"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:1081 
+#: directory/front-end/ajax-hooks.php:1209 
+#: directory/front-end/ajax-hooks.php:1918
+msgid "First  name is required"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/add-bookings.php:42
+msgid "First Name"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-basics.php:78 
+#: directory/front-end/templates/hospitals/dashboard-basics.php:46 
+#: directory/front-end/templates/regular_users/dashboard-basics.php:62
+msgid "First name"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2819
+msgid "First name is required field"
+msgstr ""
+
+#: theme-config/theme-setup/class-theme-setup.php:53
+msgid "Footer Menu"
+msgstr ""
+
+#: includes/sidebars.php:58
+msgid "Footer section 1"
+msgstr ""
+
+#: includes/sidebars.php:68
+msgid "Footer section 2"
+msgstr ""
+
+#: includes/sidebars.php:78
+msgid "Footer section 3"
+msgstr ""
+
+#: single-doctors.php:53
+msgid "Forum Discussion"
+msgstr ""
+
+#: includes/sidebars.php:29
+msgid "Forum Single"
+msgstr ""
+
+#: includes/languages.php:63
+msgid "French"
+msgstr ""
+
+#: directory/front-end/functions.php:1266
+msgid "Fri"
+msgstr ""
+
+#: directory/front-end/functions.php:1220 
+#: directory/front-end/functions.php:1243
+msgid "Friday"
+msgstr ""
+
+#: includes/languages.php:64
+msgid "Fulah"
+msgstr ""
+
+#: includes/languages.php:65
+msgid "Gaelic, Scottish Gaelic"
+msgstr ""
+
+#: includes/languages.php:66
+msgid "Galician"
+msgstr ""
+
+#: directory/front-end/templates/gallery.php:21 
+#: directory/front-end/templates/doctors/dashboard-profile-settings-tabs.php:58
+#:  
+#: directory/front-end/templates/hospitals/dashboard-profile-settings-tabs.php:39
+msgid "Gallery"
+msgstr ""
+
+#: includes/languages.php:67
+msgid "Ganda"
+msgstr ""
+
+#: directory/front-end/functions.php:2721
+msgid "Gender:"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:123
+msgid "Generate Patient Prescription"
+msgstr ""
+
+#: includes/languages.php:68
+msgid "Georgian"
+msgstr ""
+
+#: includes/languages.php:69
+msgid "German"
+msgstr ""
+
+#: directory/front-end/templates/doctors-location-sidebar.php:137 
+#: directory/front-end/templates/location-sidebar.php:120
+msgid "Get Directions"
+msgstr ""
+
+#: includes/languages.php:70
+msgid "Gikuyu, Kikuyu"
+msgstr ""
+
+#: directory/post-question.php:7
+msgid "Give Category to Your Query"
+msgstr ""
+
+#: includes/languages.php:71
+msgid "Greek (Modern)"
+msgstr ""
+
+#: includes/languages.php:72
+msgid "Greenlandic, Kalaallisut"
+msgstr ""
+
+#: includes/languages.php:73
+msgid "Guarani"
+msgstr ""
+
+#: includes/languages.php:74
+msgid "Gujarati"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-statistics-package-expiry.php:33
+msgid "h"
+msgstr ""
+
+#: includes/languages.php:75
+msgid "Haitian, Haitian Creole"
+msgstr ""
+
+#: includes/languages.php:76
+msgid "Hausa"
+msgstr ""
+
+#: theme-config/theme-setup/class-theme-setup.php:52
+msgid "Header Main Menu"
+msgstr ""
+
+#: single-healthforum.php:67 directory/healthforum.php:151
+msgid "Health Form"
+msgstr ""
+
+#. Name of the template
+msgid "Health Forum"
+msgstr ""
+
+#: directory/front-end/hooks.php:1036
+msgid "Health Forum Page"
+msgstr ""
+
+#: includes/languages.php:77
+msgid "Hebrew"
+msgstr ""
+
+#: directory/front-end/templates/doctors-location-sidebar.php:88 
+#: directory/front-end/templates/location-sidebar.php:72
+msgid "Hello"
+msgstr ""
+
+#: includes/languages.php:78
+msgid "Herero"
+msgstr ""
+
+#: directory/front-end/functions.php:2504
+msgid "Hi %username%, your booking has been received on %date%"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3663
+msgid "Hide Details"
+msgstr ""
+
+#: includes/languages.php:79
+msgid "Hindi"
+msgstr ""
+
+#: includes/languages.php:80
+msgid "Hiri Motu"
+msgstr ""
+
+#: searchform.php:20 includes/class-titlebars.php:206 
+#: directory/front-end/hooks.php:2593
+msgid "Home"
+msgstr ""
+
+#: includes/functions.php:132 directory/front-end/functions.php:1742 
+#: directory/front-end/hooks.php:2421
+msgid "Hospital"
+msgstr ""
+
+#: single-hospitals.php:32
+msgid "Hospital Details"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:647
+msgid "Hospital Name is required."
+msgstr ""
+
+#: directory/front-end/hooks.php:2003
+msgid "Hospitals"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-saved-items.php:32
+msgid "Hosptials"
+msgstr ""
+
+#: template-parts/template-comingsoon.php:113
+msgid "Hour"
+msgstr ""
+
+#: includes/constants.php:120 template-parts/template-comingsoon.php:103
+msgid "Hours"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/addfeedback.php:47
+msgid "How long did you wait?"
+msgstr ""
+
+#. URI of the theme
+msgid "http://amentotech.com/projects/doctreat"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/amentotech/portfolio"
+msgstr ""
+
+#: includes/languages.php:81
+msgid "Hungarian"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/feedback.php:65
+msgid "I Don’t Recommend"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/addfeedback.php:31 
+#: directory/front-end/templates/doctors/single/feedback.php:63
+msgid "I Recommend This Doctor"
+msgstr ""
+
+#: includes/languages.php:82
+msgid "Icelandic"
+msgstr ""
+
+#: directory/front-end/hooks.php:1876
+msgid "ID"
+msgstr ""
+
+#: includes/languages.php:83
+msgid "Ido"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:1509
+msgid ""
+"If packages type will be doctors then package will be display in doctors "
+"dashboard."
+msgstr ""
+
+#: 404.php:16 template-parts/content-none.php:23 
+#: template-parts/content-none.php:31 template-parts/content-search.php:27
+msgid "If you didn't find what you were looking for, try a new search!"
+msgstr ""
+
+#: includes/languages.php:84
+msgid "Igbo"
+msgstr ""
+
+#: includes/constants.php:103
+msgid "Image title"
+msgstr ""
+
+#: includes/scripts.php:211
+msgid "Import Users"
+msgstr ""
+
+#: includes/template-tags.php:52
+#, php-format
+msgid "In %1$s"
+msgstr ""
+
+#: includes/functions.php:779
+msgid "In future"
+msgstr ""
+
+#: includes/functions.php:776
+msgid "In this month"
+msgstr ""
+
+#: directory/front-end/functions.php:512 
+#: directory/front-end/dashboard-menu-templates/profile-menu-chat.php:26
+msgid "Inbox"
+msgstr ""
+
+#: includes/languages.php:85
+msgid "Indonesian"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2850
+msgid "Install"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2734
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:340 
+#: theme-config/tgmp/init.php:121
+msgid "Install Plugins"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:339 
+#: theme-config/tgmp/init.php:120
+msgid "Install Required Plugins"
+msgstr ""
+
+#. 1: install status, 2: update status
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2474
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2451
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2622
+msgid "Installed version:"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3650
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3658
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: theme-config/tgmp/class-tgm-plugin-activation.php:342 
+#: theme-config/tgmp/init.php:122
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-education.php:63 
+#: directory/front-end/templates/doctors/dashboard-education.php:102
+msgid "Institude name"
+msgstr ""
+
+#: includes/languages.php:86
+msgid "Interlingua (International Auxiliary Language Association)"
+msgstr ""
+
+#: includes/languages.php:87
+msgid "Interlingue"
+msgstr ""
+
+#: includes/languages.php:88
+msgid "Inuktitut"
+msgstr ""
+
+#: includes/languages.php:89
+msgid "Inupiaq"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:39
+msgid "Invalid E-mail address!"
+msgstr ""
+
+#: directory/front-end/templates/hospitals/dashboard-team.php:51
+msgid "Invite doctors"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-setting.php:81
+msgid "Invite hospitals"
+msgstr ""
+
+#: directory/front-end/functions.php:561 directory/front-end/functions.php:565 
+#: directory/front-end/templates/dashboard-invoices.php:32 
+#: directory/front-end/dashboard-menu-templates/doctors/profile-menu-invoices.php:21
+#:  
+#: directory/front-end/dashboard-menu-templates/regular_users/profile-menu-invoices-regular-users.php:21
+#:  directory/front-end/templates/doctors/dashboard-invoices.php:22
+msgid "Invoices"
+msgstr ""
+
+#: includes/languages.php:90
+msgid "Irish"
+msgstr ""
+
+#: includes/sidebars.php:50
+msgid "It will be shown on doctor single sidebar"
+msgstr ""
+
+#: includes/sidebars.php:60 includes/sidebars.php:70 includes/sidebars.php:80
+msgid "It will be shown on footer section"
+msgstr ""
+
+#: includes/languages.php:91
+msgid "Italian"
+msgstr ""
+
+#: directory/front-end/functions.php:1711
+msgid "January"
+msgstr ""
+
+#: includes/languages.php:92
+msgid "Japanese"
+msgstr ""
+
+#: includes/languages.php:93
+msgid "Javanese"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-experience.php:72 
+#: directory/front-end/templates/doctors/dashboard-experience.php:110
+msgid "job title"
+msgstr ""
+
+#: directory/front-end/functions.php:1717
+msgid "July"
+msgstr ""
+
+#: directory/front-end/functions.php:1716
+msgid "June"
+msgstr ""
+
+#: includes/languages.php:94
+msgid "Kannada"
+msgstr ""
+
+#: includes/languages.php:95
+msgid "Kanuri"
+msgstr ""
+
+#: includes/languages.php:96
+msgid "Kashmiri"
+msgstr ""
+
+#: includes/languages.php:97
+msgid "Kazakh"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/addfeedback.php:115
+msgid "Keep this feedback publicly anonymous."
+msgstr ""
+
+#: includes/languages.php:98
+msgid "Kinyarwanda"
+msgstr ""
+
+#: includes/languages.php:99
+msgid "Komi"
+msgstr ""
+
+#: includes/languages.php:100
+msgid "Kongo"
+msgstr ""
+
+#: includes/languages.php:101
+msgid "Korean"
+msgstr ""
+
+#: includes/languages.php:103
+msgid "Kurdish"
+msgstr ""
+
+#: includes/languages.php:102
+msgid "Kwanyama, Kuanyama"
+msgstr ""
+
+#: includes/languages.php:104
+msgid "Kyrgyz"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:200
+msgid "Laboratory Tests"
+msgstr ""
+
+#: directory/front-end/hooks.php:1119 
+#: directory/front-end/templates/doctors/dashboard-manage-account-settings.php:54
+#:  directory/front-end/templates/doctors/single/languages.php:21
+msgid "Languages"
+msgstr ""
+
+#: includes/languages.php:105
+msgid "Lao"
+msgstr ""
+
+#: theme-config/theme-setup/class-theme-setup.php:81
+msgid "Large"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-basics.php:82 
+#: directory/front-end/templates/hospitals/dashboard-basics.php:50 
+#: directory/front-end/templates/regular_users/dashboard-basics.php:65 
+#: directory/front-end/templates/doctors/single/add-bookings.php:46
+msgid "Last Name"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:1082 
+#: directory/front-end/ajax-hooks.php:1210 
+#: directory/front-end/ajax-hooks.php:1919
+msgid "Last name is required"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2820
+msgid "Last name is required field"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-reset-password.php:24
+msgid "Last Remember Password"
+msgstr ""
+
+#: includes/languages.php:106
+msgid "Latin"
+msgstr ""
+
+#: includes/languages.php:107
+msgid "Latvian"
+msgstr ""
+
+#: includes/template-tags.php:64
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:51 healthforum-comments.php:40
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-awards.php:50 
+#: directory/front-end/templates/doctors/dashboard-awards.php:79 
+#: directory/front-end/templates/doctors/dashboard-education.php:78 
+#: directory/front-end/templates/doctors/dashboard-education.php:117 
+#: directory/front-end/templates/doctors/dashboard-experience.php:78 
+#: directory/front-end/templates/doctors/dashboard-experience.php:116
+msgid "Leave ending date empty if its your current job"
+msgstr ""
+
+#: directory/back-end/author-partials/template-author-payments.php:134
+msgid ""
+"Leave it empty to while updating user, otherwise selected package will be "
+"updated as user current package."
+msgstr ""
+
+#: healthforum-comments.php:39
+msgid "Leave Your Answer"
+msgstr ""
+
+#: comments.php:50
+msgid "Leave Your Comment"
+msgstr ""
+
+#: includes/languages.php:108
+msgid "Letzeburgesch, Luxembourgish"
+msgstr ""
+
+#: includes/languages.php:109
+msgid "Limburgish, Limburgan, Limburger"
+msgstr ""
+
+#: includes/languages.php:110
+msgid "Lingala"
+msgstr ""
+
+#: directory/front-end/hooks.php:13
+msgid "Linked Profile"
+msgstr ""
+
+#: includes/languages.php:111
+msgid "Lithuanian"
+msgstr ""
+
+#: directory/front-end/hooks.php:1000
+msgid "load"
+msgstr ""
+
+#: includes/class-headers.php:81
+msgid "loader"
+msgstr ""
+
+#: directory/front-end/hooks.php:1062 directory/front-end/woo-hooks.php:923
+msgid "Location"
+msgstr ""
+
+#: directory/front-end/templates/hospitals/dashboard-location-details.php:29
+msgid "Location Details"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-location-basic.php:51
+msgid "Location Photo"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-location-basic.php:43
+msgid "Location title"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/locations.php:43
+msgid "Locations"
+msgstr ""
+
+#: theme-config/tgmp/init.php:93
+msgid "Loco Translate"
+msgstr ""
+
+#: comments.php:38
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:38
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:38
+msgid "Logged in as"
+msgstr ""
+
+#: includes/constants.php:87
+msgid "Login"
+msgstr ""
+
+#: includes/constants.php:93
+msgid "Login for continue booking."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2511
+msgid "Login is required to submit the question."
+msgstr ""
+
+#: includes/constants.php:94 directory/front-end/ajax-hooks.php:4313
+msgid "Login to add feedback."
+msgstr ""
+
+#: includes/constants.php:95
+msgid "Login to save this"
+msgstr ""
+
+#: includes/constants.php:96
+msgid "Login to send your proposal"
+msgstr ""
+
+#: directory/front-end/functions.php:570 
+#: directory/front-end/dashboard-menu-templates/profile-menu-logout.php:15
+msgid "Logout"
+msgstr ""
+
+#: includes/functions.php:781
+msgid "Long back"
+msgstr ""
+
+#: includes/languages.php:112
+msgid "Luba-Katanga"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-statistics-package-expiry.php:38
+msgid "m"
+msgstr ""
+
+#: includes/languages.php:113
+msgid "Macedonian"
+msgstr ""
+
+#: includes/languages.php:114
+msgid "Malagasy"
+msgstr ""
+
+#: includes/languages.php:115
+msgid "Malay"
+msgstr ""
+
+#: includes/languages.php:116
+msgid "Malayalam"
+msgstr ""
+
+#: directory/front-end/hooks.php:2029 
+#: directory/front-end/templates/doctors/dashboard-basics.php:67 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:154
+msgid "Male"
+msgstr ""
+
+#: includes/languages.php:117
+msgid "Maltese"
+msgstr ""
+
+#: directory/front-end/dashboard-menu-templates/doctors/profile-menu-manage-article.php:21
+msgid "Manage article"
+msgstr ""
+
+#: directory/front-end/functions.php:540
+msgid "Manage Articles"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-email-notifications.php:17
+msgid "Manage Email Notifications"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-profile-settings-specialities.php:33
+msgid "Manage Services"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-statistics-payouts.php:30
+msgid "Manage Settings"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-manage-specilities-services.php:29
+msgid "Manage Specialties and Services"
+msgstr ""
+
+#: directory/front-end/functions.php:548 
+#: directory/front-end/templates/dashboard-manage-team.php:22 
+#: directory/front-end/templates/dashboard-manage-team.php:29 
+#: directory/front-end/templates/hospitals/dashboard-team.php:49
+msgid "Manage Team"
+msgstr ""
+
+#: directory/front-end/dashboard-menu-templates/hospitals/profile-menu-manage-team.php:21
+msgid "Manage team"
+msgstr ""
+
+#: includes/languages.php:118
+msgid "Manx"
+msgstr ""
+
+#: includes/languages.php:119
+msgid "Maori"
+msgstr ""
+
+#: includes/languages.php:120
+msgid "Marathi"
+msgstr ""
+
+#: directory/front-end/functions.php:1713
+msgid "March"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:167
+msgid "Marital Status"
+msgstr ""
+
+#: directory/front-end/functions.php:2738
+msgid "Marital status:"
+msgstr ""
+
+#: includes/languages.php:121
+msgid "Marshallese"
+msgstr ""
+
+#: directory/doctor-search.php:248
+msgid "matches found"
+msgstr ""
+
+#: directory/front-end/functions.php:1715
+msgid "May"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:253
+msgid "Medical History"
+msgstr ""
+
+#: directory/front-end/hooks.php:1345 
+#: directory/front-end/templates/doctors/single/basic.php:61 
+#: directory/front-end/templates/hospitals/single/basic.php:51
+msgid "Medical Registration Verified"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:265
+msgid "Medications"
+msgstr ""
+
+#: directory/front-end/functions.php:2812
+msgid "Medications:"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-membership.php:19 
+#: directory/front-end/templates/doctors/single/memberships.php:20
+msgid "Memberships"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4038
+msgid "Message"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2412
+msgid "Message is reequired."
+msgstr ""
+
+#: includes/constants.php:148
+msgid "Message is required"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4208
+msgid "Message send successfuly."
+msgstr ""
+
+#: directory/front-end/templates/dashboard-messaging.php:12
+msgid "Messages"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2630
+msgid "Minimum required version:"
+msgstr ""
+
+#: template-parts/template-comingsoon.php:116
+msgid "Minute"
+msgstr ""
+
+#: includes/constants.php:121 template-parts/template-comingsoon.php:104
+msgid "Minutes"
+msgstr ""
+
+#: includes/constants.php:123
+msgid "Minutes and"
+msgstr ""
+
+#: directory/front-end/hooks.php:1822
+msgid "Miss."
+msgstr ""
+
+#: includes/languages.php:122
+msgid "Moldovan, Moldavian, Romanian"
+msgstr ""
+
+#: directory/front-end/functions.php:1262
+msgid "Mon"
+msgstr ""
+
+#: directory/front-end/functions.php:1216 
+#: directory/front-end/functions.php:1239
+msgid "Monday"
+msgstr ""
+
+#: includes/languages.php:123
+msgid "Mongolian"
+msgstr ""
+
+#: directory/front-end/hooks.php:540
+msgid "Monthly"
+msgstr ""
+
+#: directory/front-end/functions.php:143
+msgid "More then hr"
+msgstr ""
+
+#: directory/front-end/hooks.php:1852
+msgid "Mother"
+msgstr ""
+
+#: directory/front-end/hooks.php:1821
+msgid "Mr."
+msgstr ""
+
+#: directory/front-end/functions.php:553 
+#: directory/front-end/dashboard-menu-templates/profile-menu-saved.php:21
+msgid "My Saved Items"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:902
+msgid "My Self"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/bookings.php:64
+msgid "Myself"
+msgstr ""
+
+#: directory/front-end/functions.php:2816 directory/front-end/hooks.php:1877 
+#: directory/front-end/woo-hooks.php:932 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:270 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:297 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:348 
+#: directory/front-end/templates/doctors/single/add-bookings.php:76
+msgid "Name"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3373
+msgid "Name is required."
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/bookings.php:165
+msgid "Name*"
+msgstr ""
+
+#: directory/front-end/functions.php:2707
+msgid "Name:"
+msgstr ""
+
+#: includes/languages.php:124
+msgid "Nauru"
+msgstr ""
+
+#: includes/languages.php:125
+msgid "Navajo, Navaho"
+msgstr ""
+
+#: includes/languages.php:127
+msgid "Ndonga"
+msgstr ""
+
+#: template-parts/content-none.php:22 template-parts/content-none.php:30 
+#: template-parts/content-search.php:26
+msgid "Need a new search?"
+msgstr ""
+
+#: includes/languages.php:128
+msgid "Nepali"
+msgstr ""
+
+#: includes/constants.php:137
+msgid "Never show this message again"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-statistics-appointments.php:34 
+#: directory/front-end/templates/dashboard-statistics-messages.php:29 
+#: directory/front-end/templates/dashboard-statistics-messages.php:36
+msgid "New Messages"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-reset-password.php:27
+msgid "New Password"
+msgstr ""
+
+#: directory/front-end/hooks.php:248
+msgid "New password"
+msgstr ""
+
+#: includes/template-tags.php:128
+msgid "Newer posts"
+msgstr ""
+
+#: includes/hooks.php:330
+msgid "Next post"
+msgstr ""
+
+#: directory/back-end/author-partials/template-author-payments.php:24 
+#: directory/front-end/templates/dashboard-package-detail.php:18
+msgid "Nill"
+msgstr ""
+
+#: includes/constants.php:126 includes/scripts.php:210 
+#: directory/front-end/hooks.php:511
+msgid "No"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/addfeedback.php:39
+msgid "no"
+msgstr ""
+
+#. 1: plugin name.
+#: theme-config/tgmp/class-tgm-plugin-activation.php:402
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-articles.php:109 
+#: directory/front-end/templates/doctors/single/dashboard-articles.php:99
+msgid "No Articl posted yet."
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/locations.php:62
+msgid "No Available Locations."
+msgstr ""
+
+#: directory/front-end/templates/hospitals/single/online-consultation.php:62
+msgid "No consultion found."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:151
+msgid "No kiddied please"
+msgstr ""
+
+#: includes/constants.php:99 directory/front-end/hooks.php:1697
+msgid "No kiddies please"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:642 
+#: directory/front-end/ajax-hooks.php:822 
+#: directory/front-end/ajax-hooks.php:972 
+#: directory/front-end/ajax-hooks.php:1076 
+#: directory/front-end/ajax-hooks.php:1204 
+#: directory/front-end/ajax-hooks.php:1327 
+#: directory/front-end/ajax-hooks.php:1369 
+#: directory/front-end/ajax-hooks.php:1419 
+#: directory/front-end/ajax-hooks.php:1518 
+#: directory/front-end/ajax-hooks.php:1574 
+#: directory/front-end/ajax-hooks.php:1630 
+#: directory/front-end/ajax-hooks.php:1707 
+#: directory/front-end/ajax-hooks.php:1769 
+#: directory/front-end/ajax-hooks.php:1856 
+#: directory/front-end/ajax-hooks.php:1913 
+#: directory/front-end/ajax-hooks.php:2088 
+#: directory/front-end/ajax-hooks.php:2177 
+#: directory/front-end/ajax-hooks.php:2521
+msgid "No kiddies please!"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:97
+msgid "No Kiddies please."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4319 
+#: directory/front-end/ajax-hooks.php:4369 
+#: directory/front-end/ajax-hooks.php:4397
+msgid "no kidds."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4054
+msgid "No more review"
+msgstr ""
+
+#: directory/front-end/functions.php:742 directory/front-end/functions.php:754
+msgid "No Name"
+msgstr ""
+
+#: directory/front-end/hooks.php:643
+msgid "No of Articles"
+msgstr ""
+
+#: directory/front-end/hooks.php:653
+msgid "No of Awards"
+msgstr ""
+
+#: directory/front-end/hooks.php:633
+msgid "No of Brochures"
+msgstr ""
+
+#: directory/front-end/hooks.php:635
+msgid "No of Brochures/Downloads."
+msgstr ""
+
+#: directory/front-end/hooks.php:704
+msgid "No of days for featured profile"
+msgstr ""
+
+#: directory/front-end/hooks.php:663
+msgid "No of Memberships"
+msgstr ""
+
+#: directory/front-end/hooks.php:623
+msgid "No of services"
+msgstr ""
+
+#: directory/front-end/hooks.php:625
+msgid "No of services per speciality."
+msgstr ""
+
+#: directory/front-end/templates/hospitals/single/onboarddoctors.php:86
+msgid "No Onboard Doctors."
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/consultation.php:48
+msgid "No online consultation."
+msgstr ""
+
+#: directory/front-end/templates/dashboard-invoices.php:89
+msgid "No order has been made yet."
+msgstr ""
+
+#: directory/back-end/author-partials/template-author-payments.php:106 
+#: directory/front-end/templates/dashboard-packages.php:96
+msgid "No package has been made yet."
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/feedback.php:131
+msgid "No patient feedback yet now."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-payments.php:84
+msgid "No payments found yet."
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3068
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2933
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2935
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2665
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3042
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2890
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2892
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: taxonomy-languages.php:87 taxonomy-locations.php:86 
+#: taxonomy-services.php:87 taxonomy-specialities.php:87 
+#: directory/doctor-search.php:306 directory/healthforum.php:270
+msgid "No result found."
+msgstr ""
+
+#: directory/front-end/functions.php:1912
+msgid "No satisfied with the system"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-saved-doctors.php:66
+msgid "No saved doctors yet."
+msgstr ""
+
+#: directory/front-end/templates/dashboard-saved-hosptials.php:71
+msgid "No saved hospitals or location yet."
+msgstr ""
+
+#: theme-config/theme-setup/class-theme-setup.php:76
+msgid "Normal"
+msgstr ""
+
+#: includes/languages.php:126
+msgid "Northern Ndebele"
+msgstr ""
+
+#: includes/languages.php:129
+msgid "Northern Sami"
+msgstr ""
+
+#: includes/languages.php:130
+msgid "Norwegian"
+msgstr ""
+
+#: includes/languages.php:131
+msgid "Norwegian Bokmål"
+msgstr ""
+
+#: includes/languages.php:132
+msgid "Norwegian Nynorsk"
+msgstr ""
+
+#: directory/front-end/hooks.php:1488 directory/front-end/hooks.php:1632 
+#: directory/front-end/templates/doctors-location-sidebar.php:130
+msgid "Not Available"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2447
+msgid "Not Installed"
+msgstr ""
+
+#: directory/front-end/hooks.php:48
+msgid "Not Verified"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: directory/front-end/functions.php:1721
+msgid "November"
+msgstr ""
+
+#: includes/languages.php:133
+msgid "Nuosu, Sichuan Yi"
+msgstr ""
+
+#: includes/languages.php:134
+msgid "Occitan (post 1500)"
+msgstr ""
+
+#: directory/front-end/functions.php:1720
+msgid "October"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-profile-settings-specialities.php:37
+#:  directory/front-end/templates/doctors/single/services.php:19 
+#: directory/front-end/templates/hospitals/single/services.php:21
+msgid "Offered Services"
+msgstr ""
+
+#: includes/languages.php:135
+msgid "Ojibwa"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2205
+msgid "Old Password doesn't matched with the existing password"
+msgstr ""
+
+#: includes/template-tags.php:125
+msgid "Older posts"
+msgstr ""
+
+#: single-hospitals.php:29 
+#: directory/front-end/templates/hospitals/single/onboarddoctors.php:54
+msgid "Onboard Doctors"
+msgstr ""
+
+#: includes/constants.php:97
+msgid "Only numeric values allowed"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3470
+msgid "Oops! "
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:117 
+#: directory/front-end/ajax-hooks.php:146
+msgid "Oops! Invalid request"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:106
+msgid "Oops! password is not matched"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:112
+msgid "Oops! password should not be empty"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2484 
+#: directory/front-end/ajax-hooks.php:2696
+msgid "Oops! something is going wrong."
+msgstr ""
+
+#: includes/constants.php:118
+msgid "Oops, nothing found!"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:768
+msgid "Order #"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:1287
+msgid "Order Detail"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-invoices.php:50
+msgid "Order ID"
+msgstr ""
+
+#: includes/languages.php:136
+msgid "Oriya"
+msgstr ""
+
+#: includes/languages.php:137
+msgid "Oromo"
+msgstr ""
+
+#: includes/languages.php:138
+msgid "Ossetian, Ossetic"
+msgstr ""
+
+#: directory/front-end/functions.php:772
+msgid "Other"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:902
+msgid "Other Person"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:929
+msgid "Other person name"
+msgstr ""
+
+#: directory/front-end/functions.php:1914 directory/front-end/hooks.php:1855 
+#: directory/front-end/templates/doctors/dashboard-appointment-detials.php:210 
+#: directory/front-end/templates/doctors/dashboard-appointment-location-settings.php:205
+#:  
+#: directory/front-end/templates/doctors/dashboard-appointment-setting.php:170 
+#: directory/front-end/templates/doctors/dashboard-basics.php:69 
+#: directory/front-end/templates/hospitals/dashboard-basics.php:91
+msgid "Others"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:1484
+msgid "Package Options"
+msgstr ""
+
+#: directory/front-end/functions.php:434
+msgid "Package Type"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:1506
+msgid "Package Type?"
+msgstr ""
+
+#: directory/front-end/functions.php:557 
+#: directory/front-end/woo-hooks.php:1461 
+#: directory/front-end/templates/dashboard-packages.php:39 
+#: directory/front-end/dashboard-menu-templates/doctors/profile-menu-packages.php:21
+msgid "Packages"
+msgstr ""
+
+#: directory/front-end/hooks.php:2729
+msgid "Page"
+msgstr ""
+
+#: directory/front-end/hooks.php:2729
+msgid "Page "
+msgstr ""
+
+#: includes/sidebars.php:38
+msgid "Pages"
+msgstr ""
+
+#: single.php:102
+msgid "Pages:"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2054
+msgid "Paitent exists"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-statistics-package-expiry.php:49
+msgid "Pakckage expiry"
+msgstr ""
+
+#: includes/languages.php:139
+msgid "Pali"
+msgstr ""
+
+#: includes/languages.php:140
+msgid "Panjabi, Punjabi"
+msgstr ""
+
+#: includes/languages.php:141
+msgid "Pashto, Pushto"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-account-manage.php:38
+msgid "Password"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3322
+msgid "Password does not match."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2146
+msgid "Password doesn't match"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3362
+msgid "Password is invalid."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2093
+msgid "Password is required"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3306
+msgid "Password is required."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2200
+msgid "Password Updated."
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/bookings.php:153
+msgid "Password*"
+msgstr ""
+
+#: directory/front-end/functions.php:1744
+msgid "Patient"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3830
+msgid "patient"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/feedback.php:47
+msgid "Patient Feedback"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:129
+msgid "Patient Information"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:134 
+#: directory/front-end/templates/doctors/single/bookings.php:81
+msgid "Patient Name"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:943
+msgid "Patient name"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3138
+msgid "Patient name is required"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/add-bookings.php:64
+msgid "Patient only"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:137
+msgid "Patient Phone"
+msgstr ""
+
+#: includes/functions.php:127
+msgid "Patients"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-payments.php:41
+msgid "Payment Method"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-payments.php:39
+msgid "Payout Details"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4278
+msgid "Payout settings have been removed."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4254
+msgid "Payout settings have been updated."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-statistics-payouts.php:22 
+#: directory/front-end/templates/doctors/dashboard-statistics-payouts.php:29
+msgid "Payouts"
+msgstr ""
+
+#: directory/front-end/functions.php:544 
+#: directory/front-end/dashboard-menu-templates/doctors/profile-menu-payouts-settings.php:21
+#:  directory/front-end/templates/doctors/dashboard-payouts-settings.php:25 
+#: directory/front-end/templates/doctors/dashboard-payouts.php:25
+msgid "Payouts Settings"
+msgstr ""
+
+#: directory/front-end/hooks.php:2896
+msgid "Paypal"
+msgstr ""
+
+#: directory/front-end/hooks.php:2915
+msgid "PayPal Email Address"
+msgstr ""
+
+#: directory/front-end/hooks.php:2917
+msgid "PayPal Email Address is required"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3798 
+#: directory/front-end/ajax-hooks.php:3802 
+#: directory/front-end/functions.php:12 
+#: directory/front-end/templates/doctors/dashboard-appointment-listing.php:130 
+#: directory/front-end/templates/doctors/dashboard-appointment-listing.php:134 
+#: directory/front-end/templates/doctors/dashboard-current-appointment-listing.php:73
+#:  
+#: directory/front-end/templates/doctors/dashboard-current-appointment-listing.php:77
+#:  
+#: directory/front-end/templates/regular_users/dashboard-appointment-listing.php:100
+#:  
+#: directory/front-end/templates/regular_users/dashboard-appointment-listing.php:104
+msgid "Pending"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-statistics-pending-balance.php:23
+msgid "Pending Balance"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-statistics-pending-balance.php:31
+msgid "Pending balance"
+msgstr ""
+
+#: includes/languages.php:142
+msgid "Persian"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3882
+msgid "Person with patient"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-profile-settings-tabs.php:37
+#:  
+#: directory/front-end/templates/hospitals/dashboard-profile-settings-tabs.php:28
+#:  
+#: directory/front-end/templates/regular_users/dashboard-profile-settings-tabs.php:25
+msgid "Personal Details"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-basics.php:94 
+#: directory/front-end/templates/hospitals/dashboard-basics.php:65 
+#: directory/front-end/templates/regular_users/dashboard-basics.php:71
+msgid "Personal mobile number"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:1083 
+#: directory/front-end/ajax-hooks.php:1211
+msgid "Personal mobile number is required"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:933 directory/front-end/woo-hooks.php:936 
+#: directory/front-end/templates/doctors/single/add-bookings.php:49
+msgid "Phone"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3154
+msgid "Phone number is required"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3385
+msgid "Phone number is required."
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/bookings.php:168
+msgid "Phone Number*"
+msgstr ""
+
+#: includes/hooks.php:251
+msgid "Placeholder"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3148
+msgid "Please add a valid email address"
+msgstr ""
+
+#: includes/constants.php:85 directory/front-end/ajax-hooks.php:32
+msgid "Please add a valid email address."
+msgstr ""
+
+#: directory/front-end/hooks.php:2926
+msgid "Please add all required settings for the bank transfer."
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/add-bookings.php:36
+msgid ""
+"Please add correct email address to find patient from the database, if not "
+"found then you can add new patient into database by typing email address and "
+"name"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:28
+msgid "Please add email address."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3158
+msgid "Please add valid phone number"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:1640
+msgid "Please add valid video URL"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4354 
+#: directory/front-end/ajax-hooks.php:4360
+msgid "Please add your feed back."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:513
+msgid "Please add your location first to add time slots."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2196
+msgid "Please add your new password."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2110
+msgid "Please add your password and retype password."
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:409
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:1035 
+#: theme-config/tgmp/class-tgm-plugin-activation.php:1045
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4744
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3456
+msgid "Please enter authentication code."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2374
+msgid "Please install WooCommerce plugin to process this order"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-packages.php:99
+msgid "Please install woocommerce."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2533
+msgid "Please login to submit question."
+msgstr ""
+
+#: includes/constants.php:98
+msgid "Please login to submit your proposal"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3164 
+#: directory/front-end/ajax-hooks.php:3182
+msgid "Please select the appointment date"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2809 
+#: directory/front-end/ajax-hooks.php:3170
+msgid "Please select the hospital"
+msgstr ""
+
+#: includes/constants.php:110
+msgid "Please select the location."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2810 
+#: directory/front-end/ajax-hooks.php:2811 
+#: directory/front-end/ajax-hooks.php:3176
+msgid "Please select the time slot"
+msgstr ""
+
+#: includes/constants.php:109
+msgid "Please update your package to access this service."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:352
+msgid "Please update/install required plugins"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2368 
+#: directory/front-end/ajax-hooks.php:3706
+msgid "Please wait you are redirecting to checkout page."
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/bookings.php:33
+msgid "Please wait..."
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2678
+msgid "Plugin"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:1234 
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3082
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:399 
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3293 
+#: theme-config/tgmp/init.php:135
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3292
+msgid "Plugin activation failed."
+msgstr ""
+
+#. 1: plugin name.
+#: theme-config/tgmp/class-tgm-plugin-activation.php:404
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. 1: number of plugins.
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2520
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/languages.php:143
+msgid "Polish"
+msgstr ""
+
+#: includes/languages.php:144
+msgid "Portuguese"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-add-article.php:28
+msgid "Post a new article"
+msgstr ""
+
+#: healthforum-comments.php:46
+msgid "Post Answer"
+msgstr ""
+
+#: includes/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: comments.php:57
+msgid "Post Comment"
+msgstr ""
+
+#: includes/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: directory/front-end/hooks.php:1720
+msgid "Post has been liked"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:380
+msgid "Post ID is not set."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:420 
+#: directory/front-end/ajax-hooks.php:469 
+#: directory/front-end/ajax-hooks.php:4093
+msgid "Post ID is required."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-add-article.php:147
+msgid "Post Now"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-profile-settings-specialities.php:134
+msgid "Post services, by just clicking on “Update Services” button."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4087
+msgid "Post status is required."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:835
+msgid "Post title is required."
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2430
+msgid "Pre-Packaged"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4888
+msgid "Prescription has been updated successfully."
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/experience.php:29
+msgid "Present"
+msgstr ""
+
+#: includes/hooks.php:307
+msgid "previous post"
+msgstr ""
+
+#: directory/back-end/author-partials/template-author-payments.php:63 
+#: directory/front-end/templates/dashboard-packages.php:49 
+#: directory/front-end/templates/dashboard-profile-settings-specialities.php:111
+#:  
+#: directory/front-end/templates/dashboard-profile-settings-specialities.php:175
+#:  
+#: directory/front-end/templates/dashboard-profile-settings-specialities.php:206
+msgid "Price"
+msgstr ""
+
+#: directory/front-end/hooks.php:673
+msgid "Private Quick Chat"
+msgstr ""
+
+#: directory/front-end/functions.php:15
+msgid "Processed"
+msgstr ""
+
+#: directory/front-end/hooks.php:1824
+msgid "Prof."
+msgstr ""
+
+#: directory/front-end/class-dashboard-menu.php:72
+msgid "Profile Avatar"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-profile-settings-gallery.php:23
+msgid "Profile Gallery"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-avatar.php:29 
+#: directory/front-end/templates/hospitals/dashboard-avatar.php:29 
+#: directory/front-end/templates/regular_users/dashboard-avatar.php:29
+msgid "Profile Photo"
+msgstr ""
+
+#: directory/front-end/dashboard-menu-templates/profile-menu-profile-settings.php:21
+#:  
+#: directory/front-end/templates/doctors/dashboard-profile-settings-tabs.php:31
+#:  
+#: directory/front-end/templates/hospitals/dashboard-profile-settings-tabs.php:22
+#:  
+#: directory/front-end/templates/regular_users/dashboard-profile-settings-tabs.php:19
+msgid "Profile Settings"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-detials.php:106 
+#: directory/front-end/templates/doctors/dashboard-appointment-location-settings.php:101
+#:  directory/front-end/templates/hospitals/dashboard-location-details.php:81
+msgid "Providing Services"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:1540 
+#: directory/front-end/ajax-hooks.php:1596
+msgid "Providing Services are Updated."
+msgstr ""
+
+#: directory/front-end/hooks.php:1000
+msgid "QR code"
+msgstr ""
+
+#: directory/front-end/hooks.php:997
+msgid "QR-Code"
+msgstr ""
+
+#: directory/front-end/hooks.php:548
+msgid "Quarterly ( 90 days )"
+msgstr ""
+
+#: includes/languages.php:145
+msgid "Quechua"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2416
+msgid "Query type is required."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2553
+msgid "Question is submitted successfully."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-listing.php:101 
+#: directory/front-end/templates/doctors/dashboard-current-appointment-listing.php:59
+#:  
+#: directory/front-end/templates/regular_users/dashboard-appointment-listing.php:84
+msgid "Recent Appointments"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2408
+msgid "Recommended"
+msgstr ""
+
+#: theme-config/tgmp/init.php:60
+msgid "Redux Framework( For Theme Settings )"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-registrations.php:78 
+#: directory/front-end/templates/hospitals/dashboard-registrations.php:78
+msgid "Registration Number"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-profile-settings-tabs.php:52
+#:  directory/front-end/templates/doctors/dashboard-registrations.php:34 
+#: directory/front-end/templates/hospitals/dashboard-profile-settings-tabs.php:33
+#:  directory/front-end/templates/hospitals/dashboard-registrations.php:34 
+#: directory/front-end/templates/doctors/single/registrations.php:22
+msgid "Registrations"
+msgstr ""
+
+#: directory/front-end/templates/hospitals/dashboard-team.php:97
+msgid "Reject User"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3890 
+#: directory/front-end/woo-hooks.php:930
+msgid "Relation with patient"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/add-bookings.php:81 
+#: directory/front-end/templates/doctors/single/bookings.php:86
+msgid "Relation with you?"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/add-bookings.php:80 
+#: directory/front-end/templates/doctors/single/bookings.php:85
+msgid "Relation with you? *"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-saved-doctors.php:48
+msgid "Remove all saved doctors"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-saved-hosptials.php:55
+msgid "Remove all saved hosptials"
+msgstr ""
+
+#: includes/constants.php:143
+msgid "Remove from Saved"
+msgstr ""
+
+#: includes/constants.php:133
+msgid "Remove Location"
+msgstr ""
+
+#: includes/constants.php:146
+msgid "Remove Payouts Settings"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2240
+msgid "Remove save item successfully."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2275 
+#: directory/front-end/ajax-hooks.php:2420
+msgid "Remove save items successfully."
+msgstr ""
+
+#: includes/constants.php:129
+msgid "Remove slot(s)"
+msgstr ""
+
+#: directory/front-end/hooks.php:252
+msgid "Repeat new password"
+msgstr ""
+
+#: includes/functions.php:835
+msgid "Reply"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2405
+msgid "Required"
+msgstr ""
+
+#: directory/front-end/functions.php:2852
+msgid "Required laboratory tests*"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2459
+msgid "Required Update not Available"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2462
+msgid "Requires Update"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/bookings.php:189
+msgid "Resend Verification Code"
+msgstr ""
+
+#: includes/class-headers.php:193
+msgid "Reset Filters"
+msgstr ""
+
+#: includes/constants.php:86 directory/front-end/hooks.php:240
+msgid "Reset Password"
+msgstr ""
+
+#: directory/dashboard.php:138
+msgid "Restricted Access"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:1247
+msgid "Return to dashboard"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:397 
+#: theme-config/tgmp/init.php:134
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:398
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-delete-account.php:27
+msgid "Retype Password"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3307
+msgid "Retype password is required."
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/bookings.php:156
+msgid "Retype Password*"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2094
+msgid "Retype your password"
+msgstr ""
+
+#: includes/languages.php:146
+msgid "Romansh"
+msgstr ""
+
+#: includes/languages.php:147
+msgid "Rundi"
+msgstr ""
+
+#: includes/languages.php:148
+msgid "Russian"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-statistics-package-expiry.php:43
+msgid "s"
+msgstr ""
+
+#: includes/languages.php:149
+msgid "Samoan"
+msgstr ""
+
+#: includes/languages.php:150
+msgid "Sango"
+msgstr ""
+
+#: includes/languages.php:151
+msgid "Sanskrit"
+msgstr ""
+
+#: includes/languages.php:152
+msgid "Sardinian"
+msgstr ""
+
+#: directory/front-end/functions.php:1267
+msgid "Sat"
+msgstr ""
+
+#: directory/front-end/functions.php:1221 
+#: directory/front-end/functions.php:1244
+msgid "Saturday"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-detials.php:130 
+#: directory/front-end/templates/doctors/dashboard-appointment-location-settings.php:125
+msgid "Save &amp; Continue"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-account-manage.php:82 
+#: directory/front-end/templates/doctors/dashboard-profile-booking-options.php:30
+#:  directory/front-end/templates/doctors/dashboard-profile-gallery.php:31 
+#: directory/front-end/templates/doctors/dashboard-profile-location.php:36 
+#: directory/front-end/templates/doctors/dashboard-profile-settings-awards.php:31
+#:  
+#: directory/front-end/templates/doctors/dashboard-profile-settings-educations.php:31
+#:  
+#: directory/front-end/templates/doctors/dashboard-profile-settings-registrations.php:30
+#:  directory/front-end/templates/doctors/dashboard-profile-settings.php:32 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:324 
+#: directory/front-end/templates/hospitals/dashboard-profile-gallery.php:31 
+#: directory/front-end/templates/hospitals/dashboard-profile-settings-registrations.php:30
+#:  directory/front-end/templates/hospitals/dashboard-profile-settings.php:33 
+#: directory/front-end/templates/hospitals/dashboard-profile-specialities.php:30
+#:  
+#: directory/front-end/templates/regular_users/dashboard-profile-settings.php:31
+msgid "Save &amp; Update"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-statistics-saved-items.php:22 
+#: directory/front-end/templates/doctors/dashboard-submit-articles.php:22
+msgid "Save Items"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-saved-doctors.php:44
+msgid "Saved Doctors"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-saved-hosptials.php:51
+msgid "Saved hosptials"
+msgstr ""
+
+#: directory/front-end/hooks.php:1008
+msgid "Scan with your"
+msgstr ""
+
+#: searchform.php:19 directory/healthforum.php:186 
+#: includes/class-headers.php:152 includes/class-headers.php:156 
+#: includes/class-titlebars.php:160
+msgid "Search"
+msgstr ""
+
+#: directory/front-end/hooks.php:2028
+msgid "Search by gender"
+msgstr ""
+
+#: directory/front-end/hooks.php:1038
+msgid "Search Doctors Page"
+msgstr ""
+
+#: directory/front-end/hooks.php:1906
+msgid "Search doctors, clinics, hospitals, etc."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-setting.php:92
+msgid "Search Hospital"
+msgstr ""
+
+#: directory/front-end/hooks.php:1125
+msgid "Search Language"
+msgstr ""
+
+#: directory/front-end/hooks.php:1068
+msgid "Search Location"
+msgstr ""
+
+#. Name of the template
+msgid "Search Page"
+msgstr ""
+
+#: template-parts/content-none.php:19 template-parts/content-search.php:23
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#: directory/front-end/hooks.php:2731
+msgid "Search results for:"
+msgstr ""
+
+#: searchform.php:16
+msgid "Searching might help"
+msgstr ""
+
+#: template-parts/template-comingsoon.php:105 
+#: template-parts/template-comingsoon.php:118
+msgid "Second"
+msgstr ""
+
+#: includes/constants.php:124
+msgid "Seconds"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-account-manage.php:32
+msgid "Security & Settings"
+msgstr ""
+
+#: directory/front-end/hooks.php:1927
+msgid "Select a location"
+msgstr ""
+
+#: directory/front-end/hooks.php:2072 directory/front-end/hooks.php:2091
+msgid "Select a service"
+msgstr ""
+
+#: directory/healthforum.php:169 directory/post-question.php:16 
+#: directory/front-end/hooks.php:1959
+msgid "Select a speciality"
+msgstr ""
+
+#: directory/post-question.php:15
+msgid "Select a speciality*"
+msgstr ""
+
+#: includes/constants.php:112
+msgid "Select a speciality."
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/add-bookings.php:117 
+#: directory/front-end/templates/doctors/single/bookings.php:122
+msgid "Select best time for appointment with time zone"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-add-article.php:85 
+#: directory/front-end/templates/doctors/dashboard-edit-article.php:119
+msgid "Select Category"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-profile-settings-gallery.php:31 
+#: directory/front-end/templates/doctors/dashboard-add-article.php:56 
+#: directory/front-end/templates/doctors/dashboard-avatar.php:37 
+#: directory/front-end/templates/doctors/dashboard-downloads.php:30 
+#: directory/front-end/templates/doctors/dashboard-edit-article.php:90 
+#: directory/front-end/templates/doctors/dashboard-location-basic.php:59 
+#: directory/front-end/templates/doctors/dashboard-registrations.php:42 
+#: directory/front-end/templates/hospitals/dashboard-avatar.php:37 
+#: directory/front-end/templates/hospitals/dashboard-registrations.php:42 
+#: directory/front-end/templates/regular_users/dashboard-avatar.php:37
+msgid "Select File"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-basics.php:66
+msgid "Select gender"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:194
+msgid "Select Laboratory Tests"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-manage-account-settings.php:48
+msgid "Select Languages"
+msgstr ""
+
+#: directory/front-end/hooks.php:300
+msgid "Select Location"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:279 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:306 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:357
+msgid "Select medician Usage"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:276 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:303 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:354
+msgid "Select medicine duration"
+msgstr ""
+
+#: directory/front-end/hooks.php:373 directory/front-end/hooks.php:387 
+#: directory/front-end/templates/doctors/dashboard-basics.php:53 
+#: directory/front-end/templates/regular_users/dashboard-basics.php:48
+msgid "Select one"
+msgstr ""
+
+#: directory/back-end/author-partials/template-author-payments.php:121
+msgid "Select Package"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2095
+msgid "Select reason to delete your account"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-delete-account.php:32
+msgid "Select Reason to Leave"
+msgstr ""
+
+#: directory/front-end/hooks.php:2000
+msgid "Select search type"
+msgstr ""
+
+#: directory/front-end/hooks.php:2276
+msgid "Select Services"
+msgstr ""
+
+#: includes/functions.php:229 includes/functions.php:366
+msgid "Select Slider"
+msgstr ""
+
+#: directory/front-end/hooks.php:327 directory/front-end/hooks.php:341
+msgid "Select Speciality"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:273 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:300 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:351
+msgid "Select type"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:224 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:239 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:335
+msgid "Select vital sign"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4043 
+#: directory/front-end/templates/dashboard-messaging.php:33 
+#: directory/front-end/templates/messages.php:44
+msgid "Send"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-add-invitation.php:20
+msgid "Send invitation request"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4032
+msgid "Send Message"
+msgstr ""
+
+#: directory/front-end/functions.php:1719
+msgid "September"
+msgstr ""
+
+#: includes/languages.php:153
+msgid "Serbian"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:921 
+#: directory/front-end/templates/dashboard-manage-specilities-services.php:22
+msgid "Service"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-profile-settings-specialities.php:172
+msgid "Service title"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/services.php:41
+msgid "Service(s)"
+msgstr ""
+
+#: directory/front-end/hooks.php:2207 
+#: directory/front-end/templates/hospitals/single/services.php:43
+msgid "Services"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:1824
+msgid "Services are Updated."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3915
+msgid "Services required"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:729
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:1045 
+#: directory/front-end/ajax-hooks.php:1173 
+#: directory/front-end/ajax-hooks.php:1296 
+#: directory/front-end/ajax-hooks.php:1339 
+#: directory/front-end/ajax-hooks.php:1380 
+#: directory/front-end/ajax-hooks.php:1387 
+#: directory/front-end/ajax-hooks.php:1485 
+#: directory/front-end/ajax-hooks.php:1673 
+#: directory/front-end/ajax-hooks.php:1734 
+#: directory/front-end/ajax-hooks.php:2010
+msgid "Settings Updated."
+msgstr ""
+
+#: single.php:116 
+#: directory/front-end/templates/doctors/dashboard-articles.php:87
+msgid "Share"
+msgstr ""
+
+#: single-doctors.php:69
+msgid "Share Profile"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/share.php:22
+msgid "Share This Doctor"
+msgstr ""
+
+#: directory/front-end/templates/hospitals/single/share.php:22
+msgid "Share This Hospital"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/addfeedback.php:106
+msgid "Share Your Experience"
+msgstr ""
+
+#: includes/languages.php:154
+msgid "Shona"
+msgstr ""
+
+#: directory/front-end/templates/hospitals/dashboard-basics.php:62
+msgid "Short Description"
+msgstr ""
+
+#: directory/front-end/templates/regular_users/dashboard-basics.php:74
+msgid "Short description"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3663
+msgid "Show Details"
+msgstr ""
+
+#: theme-config/theme-setup/class-theme-setup.php:54
+msgid "Side bar pages Menu"
+msgstr ""
+
+#: includes/sidebars.php:20
+msgid "Sidebar"
+msgstr ""
+
+#: includes/languages.php:155
+msgid "Sindhi"
+msgstr ""
+
+#: includes/languages.php:156
+msgid "Sinhala, Sinhalese"
+msgstr ""
+
+#: directory/front-end/hooks.php:1850
+msgid "Sister"
+msgstr ""
+
+#: includes/constants.php:100
+msgid "Skill and percentage required"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:603
+msgid "Slot(s) successfully updated."
+msgstr ""
+
+#: includes/languages.php:157
+msgid "Slovak"
+msgstr ""
+
+#: includes/languages.php:158
+msgid "Slovenian"
+msgstr ""
+
+#: theme-config/theme-setup/class-theme-setup.php:71
+msgid "Small"
+msgstr ""
+
+#: directory/front-end/hooks.php:1008
+msgid "Smart Phone"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/userdetails.php:26 
+#: directory/front-end/templates/hospitals/single/userdetails.php:31
+msgctxt "Sobre"
+msgid "About"
+msgstr "Sobre"
+
+#: includes/languages.php:159
+msgid "Somali"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:207 
+#: directory/front-end/ajax-hooks.php:264 
+#: directory/front-end/ajax-hooks.php:2244 
+#: directory/front-end/ajax-hooks.php:2279 
+#: directory/front-end/ajax-hooks.php:2379 
+#: directory/front-end/ajax-hooks.php:2424
+msgid "Some error occur, please try again later"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:343
+msgid "Some thing went wrong."
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/add-bookings.php:68 
+#: directory/front-end/templates/doctors/single/bookings.php:68
+msgid "Someone Else"
+msgstr ""
+
+#: 404.php:15
+msgid "Something Went Wrong"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:345 
+#: theme-config/tgmp/init.php:123
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:347
+msgid "Something went wrong."
+msgstr ""
+
+#: directory/front-end/hooks.php:148
+msgid "Something wrong. Please try again."
+msgstr ""
+
+#: directory/front-end/hooks.php:1854
+msgid "Son"
+msgstr ""
+
+#: 404.php:14
+msgid "Sorry! Page not found"
+msgstr ""
+
+#: theme-config/tgmp/init.php:129
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-config/tgmp/init.php:126
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-config/tgmp/init.php:131
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: directory/doctor-search.php:253 directory/healthforum.php:201
+msgid "Sort By"
+msgstr ""
+
+#: includes/languages.php:160
+msgid "Sotho, Southern"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2679
+msgid "Source"
+msgstr ""
+
+#: includes/languages.php:161
+msgid "South Ndebele"
+msgstr ""
+
+#: directory/front-end/functions.php:1152 
+#: directory/front-end/templates/doctors/dashboard-appointment-detials.php:84 
+#: directory/front-end/templates/doctors/dashboard-appointment-location-settings.php:79
+#:  directory/front-end/templates/hospitals/dashboard-location-details.php:60
+msgid "Spaces"
+msgstr ""
+
+#: includes/languages.php:162
+msgid "Spanish, Castilian"
+msgstr ""
+
+#: directory/healthforum.php:168
+msgid "specialities"
+msgstr ""
+
+#: directory/front-end/functions.php:520 
+#: directory/front-end/dashboard-menu-templates/profile-menu-specialities.php:25
+msgid "Specialities &amp; Services"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/specializations.php:21
+msgid "Specializations"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-detials.php:117 
+#: directory/front-end/templates/doctors/dashboard-appointment-location-settings.php:112
+#:  directory/front-end/templates/hospitals/dashboard-location-details.php:92
+msgid "Specialties &amp; Services"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-statistics-services.php:22 
+#: directory/front-end/templates/doctors/dashboard-statistics-services.php:29 
+#: directory/front-end/templates/doctors/dashboard-statistics-services.php:30
+msgid "Specialties and Services"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-detials.php:145 
+#: directory/front-end/templates/doctors/dashboard-appointment-location-settings.php:140
+#:  directory/front-end/templates/doctors/dashboard-appointment-setting.php:98
+msgid "Start time"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:535
+msgid "start time is less then end time."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:514 
+#: directory/front-end/ajax-hooks.php:648
+msgid "Start time is required."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-education.php:66 
+#: directory/front-end/templates/doctors/dashboard-education.php:105 
+#: directory/front-end/templates/doctors/dashboard-experience.php:66 
+#: directory/front-end/templates/doctors/dashboard-experience.php:104
+msgid "Starting Date"
+msgstr ""
+
+#: directory/front-end/hooks.php:1482
+msgid "Starting From"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-basics.php:90
+msgid "Starting Price"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3872 
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2685 
+#: directory/front-end/templates/doctors/dashboard-appointment-listing.php:152 
+#: directory/front-end/templates/doctors/dashboard-current-appointment-listing.php:95
+#:  directory/front-end/templates/hospitals/dashboard-team.php:88 
+#: directory/front-end/templates/regular_users/dashboard-appointment-listing.php:127
+msgid "Status"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-basics.php:74 
+#: directory/front-end/templates/hospitals/dashboard-basics.php:58 
+#: directory/front-end/templates/regular_users/dashboard-basics.php:59
+msgid "Sub Heading"
+msgstr ""
+
+#: comments.php:58 healthforum-comments.php:47 
+#: directory/front-end/hooks.php:259 
+#: directory/front-end/templates/doctors/dashboard-payouts-settings.php:106
+msgid "Submit"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-add-invitation.php:37 
+#: directory/front-end/templates/doctors/single/addfeedback.php:112
+msgid "Submit Now"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2478
+msgid "Successfully! added to your Favorites"
+msgstr ""
+
+#: directory/front-end/functions.php:1268
+msgid "Sun"
+msgstr ""
+
+#: includes/languages.php:163
+msgid "Sundanese"
+msgstr ""
+
+#: directory/front-end/functions.php:1222 
+#: directory/front-end/functions.php:1245
+msgid "Sunday"
+msgstr ""
+
+#: directory/front-end/functions.php:1913
+msgid "Support is not good"
+msgstr ""
+
+#: includes/languages.php:164
+msgid "Swahili"
+msgstr ""
+
+#: includes/languages.php:165
+msgid "Swati"
+msgstr ""
+
+#: includes/languages.php:166
+msgid "Swedish"
+msgstr ""
+
+#: includes/languages.php:167
+msgid "Tagalog"
+msgstr ""
+
+#: includes/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: single.php:112
+msgid "Tags"
+msgstr ""
+
+#: includes/functions.php:483
+msgid "Tags:"
+msgstr ""
+
+#: includes/languages.php:168
+msgid "Tahitian"
+msgstr ""
+
+#: includes/languages.php:169
+msgid "Tajik"
+msgstr ""
+
+#: includes/languages.php:170
+msgid "Tamil"
+msgstr ""
+
+#: includes/languages.php:171
+msgid "Tatar"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:683
+msgid "TEAM #"
+msgstr ""
+
+#: includes/languages.php:172
+msgid "Telugu"
+msgstr ""
+
+#. %s: version number
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2103
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/languages.php:173
+msgid "Thai"
+msgstr ""
+
+#. 1: plugin name(s).
+#: theme-config/tgmp/class-tgm-plugin-activation.php:359 
+#: theme-config/tgmp/init.php:130
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:400 
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3086
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. 1: plugin name(s).
+#: theme-config/tgmp/class-tgm-plugin-activation.php:377 
+#: theme-config/tgmp/init.php:128
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: plugin name(s).
+#: theme-config/tgmp/class-tgm-plugin-activation.php:371 
+#: theme-config/tgmp/init.php:127
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3645
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. 1: plugin name.
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3641
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3653
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: single-doctors.php:38
+msgid "The profile is a temporary block from user."
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:1045
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:1035
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: directory/front-end/functions.php:771
+msgid "Their behavior is inappropriate or abusive"
+msgstr ""
+
+#: theme-config/theme-setup/class-theme-setup.php:97
+msgid "Theme Color"
+msgstr ""
+
+#: theme-config/theme-setup/class-theme-setup.php:112
+msgid "Theme Dark text color"
+msgstr ""
+
+#: theme-config/theme-setup/class-theme-setup.php:102
+msgid "Theme Light text color"
+msgstr ""
+
+#: theme-config/theme-setup/class-theme-setup.php:107
+msgid "Theme Very Light text color"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2734 
+#: directory/front-end/ajax-hooks.php:2773
+msgid "There are no any sloat available."
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/add-bookings.php:124 
+#: directory/front-end/templates/doctors/single/bookings.php:130
+msgid "There are no any slot available."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-listing.php:167 
+#: directory/front-end/templates/regular_users/dashboard-appointment-listing.php:141
+msgid "There are no appointments booked."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-current-appointment-listing.php:107
+msgid "There are no appointments."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-setting.php:70
+msgid "There are no hopital in your list."
+msgstr ""
+
+#: includes/constants.php:142
+msgid "There are no spaces for remove."
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:408
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#. 1: plugin name(s).
+#: theme-config/tgmp/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: directory/front-end/ajax-hooks.php:2043
+msgid ""
+"This email address is being used for one of the other user other than "
+"patient. Please user another email address to find or add patient."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2470
+msgid "This is already to your Favorites"
+msgstr ""
+
+#: directory/front-end/functions.php:770
+msgid "This is the fake"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:615
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/constants.php:102
+msgid "This skill is already selected"
+msgstr ""
+
+#. 1: plugin name(s).
+#: theme-config/tgmp/class-tgm-plugin-activation.php:353 
+#: theme-config/tgmp/init.php:125
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: plugin name(s).
+#: theme-config/tgmp/class-tgm-plugin-activation.php:347 
+#: theme-config/tgmp/init.php:124
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: directory/front-end/functions.php:1265
+msgid "Thu"
+msgstr ""
+
+#: directory/front-end/functions.php:1219 
+#: directory/front-end/functions.php:1242
+msgid "Thursday"
+msgstr ""
+
+#: includes/languages.php:174
+msgid "Tibetan"
+msgstr ""
+
+#: includes/languages.php:175
+msgid "Tigrinya"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-awards.php:44 
+#: directory/front-end/templates/doctors/dashboard-awards.php:73
+msgid "Title"
+msgstr ""
+
+#: directory/post-question.php:31
+msgid "Title Your Query"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3055 
+#: directory/front-end/ajax-hooks.php:3611 
+#: directory/front-end/ajax-hooks.php:4159 
+#: directory/front-end/woo-hooks.php:144 directory/front-end/woo-hooks.php:448 
+#: directory/front-end/woo-hooks.php:652
+msgid "to"
+msgstr ""
+
+#. 1: number of plugins.
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2532
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: directory/front-end/templates/doctors/single/bookings.php:34
+msgid "To confirm your booking, please deposit your payment."
+msgstr ""
+
+#: directory/front-end/hooks.php:1008
+msgid "To Get It Handy."
+msgstr ""
+
+#. 1: number of plugins.
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2524
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/functions.php:770
+msgid "Today"
+msgstr ""
+
+#: includes/class-headers.php:324
+msgid "Toggle navigation"
+msgstr ""
+
+#: includes/functions.php:774
+msgid "Tomorrow"
+msgstr ""
+
+#: includes/languages.php:176
+msgid "Tonga (Tonga Islands)"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2727
+msgid "Total"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:928
+msgid "Total amount"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3972
+msgid "Total price"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-posted-articles.php:22
+msgid "Total published articles"
+msgstr ""
+
+#: directory/front-end/functions.php:439
+msgid "Trial"
+msgstr ""
+
+#: includes/languages.php:177
+msgid "Tsonga"
+msgstr ""
+
+#: includes/languages.php:178
+msgid "Tswana"
+msgstr ""
+
+#: directory/front-end/functions.php:1263
+msgid "Tue"
+msgstr ""
+
+#: directory/front-end/functions.php:1217 
+#: directory/front-end/functions.php:1240
+msgid "Tuesday"
+msgstr ""
+
+#: includes/languages.php:179
+msgid "Turkish"
+msgstr ""
+
+#: includes/languages.php:180
+msgid "Turkmen"
+msgstr ""
+
+#: includes/languages.php:181
+msgid "Twi"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2680
+msgid "Type"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-messaging.php:29 
+#: directory/front-end/templates/messages.php:40
+msgid "Type message here"
+msgstr ""
+
+#: healthforum-comments.php:29
+msgid "Type your answer"
+msgstr ""
+
+#: comments.php:40
+msgid "Type your comment"
+msgstr ""
+
+#: directory/healthforum.php:160 directory/post-question.php:34
+msgid "Type Your Query"
+msgstr ""
+
+#: directory/front-end/functions.php:2817
+msgid "Types"
+msgstr ""
+
+#: includes/languages.php:182
+msgid "Uighur, Uyghur"
+msgstr ""
+
+#: includes/languages.php:183
+msgid "Ukrainian"
+msgstr ""
+
+#: directory/front-end/functions.php:721
+msgid "unnamed"
+msgstr ""
+
+#: directory/front-end/hooks.php:77
+msgid "Unverify"
+msgstr ""
+
+#: theme-config/tgmp/init.php:50
+msgid "Unyson ( One Click Demo Import )"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2856
+msgid "Update"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2739
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-account-manage.php:81 
+#: directory/front-end/templates/doctors/dashboard-profile-booking-options.php:29
+#:  directory/front-end/templates/doctors/dashboard-profile-gallery.php:30 
+#: directory/front-end/templates/doctors/dashboard-profile-location.php:35 
+#: directory/front-end/templates/doctors/dashboard-profile-settings-awards.php:30
+#:  
+#: directory/front-end/templates/doctors/dashboard-profile-settings-educations.php:30
+#:  
+#: directory/front-end/templates/doctors/dashboard-profile-settings-registrations.php:29
+#:  directory/front-end/templates/doctors/dashboard-profile-settings.php:31 
+#: directory/front-end/templates/hospitals/dashboard-profile-gallery.php:30 
+#: directory/front-end/templates/hospitals/dashboard-profile-settings-registrations.php:29
+#:  directory/front-end/templates/hospitals/dashboard-profile-settings.php:32 
+#: directory/front-end/templates/hospitals/dashboard-profile-specialities.php:29
+#:  
+#: directory/front-end/templates/regular_users/dashboard-profile-settings.php:30
+msgid ""
+"Update all the latest changes made by you, by just clicking on Save &amp; "
+"Update button."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:323
+msgid ""
+"Update all the latest changes made by you, by just clicking on “Save &amp; "
+"Update button."
+msgstr ""
+
+#. 1: number of plugins.
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2528
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: directory/front-end/templates/doctors/dashboard-edit-article.php:182
+msgid "Update post"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2465
+msgid "Update recommended"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:616
+msgid "Update Required"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-profile-settings-specialities.php:135
+msgid "Update Services"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: theme-config/tgmp/class-tgm-plugin-activation.php:3636
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: theme-config/tgmp/class-tgm-plugin-activation.php:344
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2817
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-statistics-package-expiry.php:57
+msgid "Upgrade Now"
+msgstr ""
+
+#: directory/back-end/dashboard.php:63
+msgid "Upload Public Avatar"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-profile-settings-gallery.php:34 
+#: directory/front-end/templates/doctors/dashboard-add-article.php:59 
+#: directory/front-end/templates/doctors/dashboard-avatar.php:40 
+#: directory/front-end/templates/doctors/dashboard-downloads.php:33 
+#: directory/front-end/templates/doctors/dashboard-edit-article.php:93 
+#: directory/front-end/templates/doctors/dashboard-location-basic.php:62 
+#: directory/front-end/templates/doctors/dashboard-registrations.php:45 
+#: directory/front-end/templates/hospitals/dashboard-avatar.php:40 
+#: directory/front-end/templates/hospitals/dashboard-registrations.php:45 
+#: directory/front-end/templates/regular_users/dashboard-avatar.php:40
+msgid "Uploading"
+msgstr ""
+
+#: includes/languages.php:184
+msgid "Urdu"
+msgstr ""
+
+#: directory/front-end/functions.php:2819
+msgid "Usage"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2891
+msgid "User already exists. Please try another one."
+msgstr ""
+
+#: directory/front-end/hooks.php:151
+msgid "User approved."
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:925
+msgid "User type"
+msgstr ""
+
+#: directory/front-end/hooks.php:154
+msgid "User unapproved."
+msgstr ""
+
+#: includes/languages.php:185
+msgid "Uzbek"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:227 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:242 
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:338
+msgid "Value"
+msgstr ""
+
+#: includes/languages.php:186
+msgid "Venda"
+msgstr ""
+
+#: directory/dashboard.php:51 directory/dashboard.php:53
+msgid "Verification"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3244
+msgid "Verification code has sent on your email"
+msgstr ""
+
+#: directory/front-end/hooks.php:46
+msgid "Verified"
+msgstr ""
+
+#: directory/front-end/hooks.php:14
+msgid "Verified Profile"
+msgstr ""
+
+#: directory/front-end/hooks.php:850
+msgid "Verified user"
+msgstr ""
+
+#: directory/dashboard.php:53
+msgid "Verify"
+msgstr ""
+
+#: directory/front-end/hooks.php:77
+msgid "verify"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/bookings.php:149 
+#: directory/front-end/templates/doctors/single/bookings.php:161
+msgid "Verify is that you?"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/bookings.php:212
+msgid "Verify Now"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2684
+msgid "Version"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-profile-settings-gallery.php:68 
+#: directory/front-end/templates/gallery.php:46
+msgid "Videos"
+msgstr ""
+
+#: includes/languages.php:187
+msgid "Vietnamese"
+msgstr ""
+
+#: directory/front-end/hooks.php:1404
+msgid "View all"
+msgstr ""
+
+#: directory/front-end/hooks.php:2449 
+#: directory/front-end/templates/doctors/dashboard-appointment-listing.php:153 
+#: directory/front-end/templates/doctors/dashboard-current-appointment-listing.php:96
+#:  directory/front-end/templates/hospitals/dashboard-team.php:92 
+#: directory/front-end/templates/regular_users/dashboard-appointment-listing.php:128
+msgid "View Details"
+msgstr ""
+
+#: directory/front-end/hooks.php:1495 directory/front-end/hooks.php:1500
+msgid "View Full Profile"
+msgstr ""
+
+#: directory/front-end/hooks.php:74
+msgid "View linked profile"
+msgstr ""
+
+#: directory/front-end/hooks.php:1579 
+#: directory/front-end/templates/dashboard-statistics-package-expiry.php:59
+msgid "View More"
+msgstr ""
+
+#: directory/front-end/functions.php:508 
+#: directory/front-end/dashboard-menu-templates/doctors/profile-menu-view-profile.php:18
+msgid "View My Profile"
+msgstr ""
+
+#: directory/front-end/woo-hooks.php:1280
+msgid "View order detail?"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-messaging.php:76
+msgid "View Profile"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-statistics-saved-items.php:29
+msgid "View Saved Items"
+msgstr ""
+
+#: directory/front-end/functions.php:2797
+msgid "Vital signs:"
+msgstr ""
+
+#: includes/languages.php:188
+msgid "Volap_k"
+msgstr ""
+
+#: directory/front-end/hooks.php:1480
+msgid "Votes"
+msgstr ""
+
+#: includes/languages.php:189
+msgid "Walloon"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4428
+msgid "We are sorry, but there is no contact information has been added."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-basics.php:98 
+#: directory/front-end/templates/hospitals/dashboard-basics.php:71
+msgid "Web url"
+msgstr ""
+
+#: directory/front-end/functions.php:1264
+msgid "Wed"
+msgstr ""
+
+#: directory/front-end/functions.php:1218 
+#: directory/front-end/functions.php:1241
+msgid "Wednesday"
+msgstr ""
+
+#: directory/front-end/hooks.php:532
+msgid "Weekly ( 7 days )"
+msgstr ""
+
+#: includes/languages.php:190
+msgid "Welsh"
+msgstr ""
+
+#: includes/languages.php:191
+msgid "Western Frisian"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/bookings.php:186
+msgid "We’ve sent verification code on your email at"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/add-bookings.php:101 
+#: directory/front-end/templates/doctors/single/bookings.php:106
+msgid "Where to visit?"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/add-bookings.php:60 
+#: directory/front-end/templates/doctors/single/bookings.php:60
+msgid "Who is Visiting To Doctor?"
+msgstr ""
+
+#: directory/front-end/hooks.php:1851
+msgid "Wife"
+msgstr ""
+
+#: includes/languages.php:192
+msgid "Wolof"
+msgstr ""
+
+#: theme-config/tgmp/init.php:83
+msgid "Woocommerce"
+msgstr ""
+
+#: theme-config/tgmp/class-tgm-plugin-activation.php:2424
+msgid "WordPress Repository"
+msgstr ""
+
+#: directory/front-end/templates/hospitals/dashboard-basics.php:80
+msgid "Working time"
+msgstr ""
+
+#: includes/languages.php:193
+msgid "Xhosa"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-awards.php:47 
+#: directory/front-end/templates/doctors/dashboard-awards.php:76
+msgid "Year"
+msgstr ""
+
+#: directory/front-end/functions.php:2712
+msgid "year"
+msgstr ""
+
+#: directory/front-end/hooks.php:556
+msgid "Yearly"
+msgstr ""
+
+#: includes/constants.php:125 includes/scripts.php:209 
+#: directory/front-end/hooks.php:511 
+#: directory/front-end/templates/doctors/single/addfeedback.php:34
+msgid "Yes"
+msgstr ""
+
+#: includes/functions.php:772
+msgid "Yesterday"
+msgstr ""
+
+#: includes/languages.php:194
+msgid "Yiddish"
+msgstr ""
+
+#: includes/languages.php:195
+msgid "Yoruba"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2141
+msgid "You account has been deleted."
+msgstr ""
+
+#: includes/constants.php:91
+msgid "You are not allowed for appointment."
+msgstr ""
+
+#: includes/constants.php:92 directory/front-end/ajax-hooks.php:4325
+msgid "You are not allowed to add feedback."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:939
+msgid "You are not allowed to remove this article."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4814
+msgid "You are not allwod to add prescription."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:1532 
+#: directory/front-end/ajax-hooks.php:1588
+msgid "You are not an authorized user to update this."
+msgstr ""
+
+#: includes/constants.php:90
+msgid "You are successfully copy the user profile."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:395
+msgid "You are successfully remove location"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:444 
+#: directory/front-end/ajax-hooks.php:489
+msgid "You are successfully remove slot(s)."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:936
+msgid "You are successfully remove this article."
+msgstr ""
+
+#: directory/front-end/templates/dashboard-add-invitation.php:29
+msgid ""
+"You can add multiple email address to send emails in bulk to invite. Type "
+"email address and hit enter"
+msgstr ""
+
+#: searchform.php:20
+msgid "You can go back to"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2317 
+#: directory/front-end/ajax-hooks.php:3647
+msgid "You have already in cart, We are redirecting to checkout"
+msgstr ""
+
+#: directory/front-end/hooks.php:1724
+msgid "You have already liked this post"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4346 
+#: directory/front-end/ajax-hooks.php:4577
+msgid "You have already submit a review."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:388
+msgid "You have no access to remove this location"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2656
+msgid "You have no permission for this change."
+msgstr ""
+
+#: directory/dashboard.php:138
+msgid "You have not any privilege to view this page."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2689
+msgid "you have successfully update this doctor status."
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgid "You must be %slogged in%s to post a comment."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2454 
+#: directory/front-end/ajax-hooks.php:2627
+msgid "You must login before add this to Favorites."
+msgstr ""
+
+#: directory/front-end/hooks.php:2899
+msgid ""
+"You need to add your PayPal ID below in the text field. For more about <a "
+"target=\"_blank\" href=\"https://www.paypal.com/\"> PayPal </a> | <a "
+"target=\"_blank\" href=\"https://www.paypal.com/signup/\">Create an "
+"account</a>"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4363
+msgid "You need to complete atleast 1 appointment to add feedback."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:2745 
+#: directory/front-end/ajax-hooks.php:2779
+msgid "You need to select hospital."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3095
+msgid "Your account is not verified to book this doctor"
+msgstr ""
+
+#: directory/dashboard.php:53
+msgid "Your account is not verified. Please verify your account"
+msgstr ""
+
+#: directory/dashboard.php:51
+msgid "Your account will be approved after the verification"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-location.php:43
+msgid "Your Address"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3069
+msgid "Your booking has been successfully submitted."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3209 
+#: directory/front-end/ajax-hooks.php:3632
+msgid "Your booking is successfully submited."
+msgstr ""
+
+#: includes/functions.php:853 includes/functions.php:881
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-appointment-setting.php:150
+msgid "Your Description"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-basics.php:45 
+#: directory/front-end/templates/hospitals/dashboard-basics.php:41 
+#: directory/front-end/templates/regular_users/dashboard-basics.php:40
+msgid "Your Details"
+msgstr ""
+
+#: includes/functions.php:803
+msgid "Your email (required)"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:560 
+#: directory/front-end/ajax-hooks.php:679
+msgid "Your end date is less then time interval."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4699
+msgid "Your feedback is successfully submitted."
+msgstr ""
+
+#: includes/constants.php:105
+msgid "Your image title"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:3333 
+#: directory/front-end/ajax-hooks.php:3421
+msgid "Your informations are correct."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:4510
+msgid "Your invitation is send to your email address."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-education.php:75 
+#: directory/front-end/templates/doctors/dashboard-education.php:114 
+#: directory/front-end/templates/doctors/dashboard-experience.php:75 
+#: directory/front-end/templates/doctors/dashboard-experience.php:113
+msgid "Your Job Description"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-location.php:33
+msgid "Your Location"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-location-basic.php:38
+msgid "Your Location Details"
+msgstr ""
+
+#: directory/front-end/templates/dashboard-add-invitation.php:32
+msgid "Your message"
+msgstr ""
+
+#: directory/front-end/templates/doctors/single/bookings.php:78
+msgid "Your mobile number"
+msgstr ""
+
+#: includes/functions.php:801
+msgid "Your name (required)"
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:815
+msgid ""
+"Your package limit for submitting articles has reached to maximum. Please "
+"upgrade or buy package to submit more articles."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:1455
+msgid ""
+"Your package limit for submitting awards has reached to maximum. Please "
+"upgrade or buy package to submit more awards."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:1449
+msgid ""
+"Your package limit for submitting downloads has reached to maximum. Please "
+"upgrade or buy package to submit more downloads."
+msgstr ""
+
+#: directory/front-end/ajax-hooks.php:1807
+msgid ""
+"Your package limit for submitting services has reached to maximum. Please "
+"upgrade or buy package to submit more services."
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-update-prescription.php:258
+msgid "Your Patient Medical History"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-payments.php:31
+msgid "Your Payments"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-payouts-settings.php:62
+msgid "Your Payout Details"
+msgstr ""
+
+#: directory/front-end/templates/doctors/dashboard-payouts.php:28
+msgid "Your Payouts"
+msgstr ""
+
+#: includes/constants.php:111
+msgid "You’ve consumed all you points to add new job."
+msgstr ""
+
+#: includes/languages.php:196
+msgid "Zhuang, Chuang"
+msgstr ""
+
+#: includes/languages.php:14 includes/languages.php:197
+msgid "Zulu"
+msgstr ""
